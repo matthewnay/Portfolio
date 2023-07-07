@@ -1,0 +1,1348 @@
+Rk,Name,Age,Tm,G,PA,WAR,Salary,Pos Summary,Name-additional
+1,David Aardsma,33,ATL,30,1,0,,1,aardsda01
+2,Fernando Abad*,29,OAK,4,0,0,"$1,087,500 ",1,abadfe01
+3,José Abreu,28,CHW,154,668,3.5,"$8,666,000 ",*3D,abreujo02
+4,A.J. Achter,26,MIN,1,0,0,,1,achteaj01
+5,Dustin Ackley*,27,2TM,108,264,-1,"$2,600,000 ",7H84/3D9,ackledu01
+6,Cristhian Adames#,23,COL,26,58,0.1,,6H/4,adamecr01
+7,Austin Adams,28,CLE,3,1,0,"$507,700 ",1,adamsau01
+8,Matt Adams*,26,STL,60,186,0,"$534,000 ",3H,adamsma01
+9,Nathan Adcock,27,CIN,12,0,0,,1,adcocna01
+10,Ehire Adrianza#,25,SFG,52,134,0.2,,46H/35,adriaeh01
+11,Jeremy Affeldt*,36,SFG,47,2,0,"$6,000,000 ",1,affelje01
+12,Jesús Aguilar,25,CLE,7,20,-0.2,,/3DH,aguilje01
+13,Nick Ahmed,25,ARI,134,459,1.1,"$508,500 ",*6/H,ahmedni01
+14,Andrew Albers,29,TOR,0,0,,,/1,alberan01
+15,Matt Albers*,32,CHW,0,0,,"$1,500,000 ",1,alberma01
+16,Hanser Alberto,22,TEX,41,104,0.4,,4/65HD,alberha01
+17,Al Alburquerque,29,DET,6,0,0,"$1,725,000 ",1,albural01
+18,Arismendy Alcántara#,23,CHC,11,32,-0.3,"$510,000 ",/4H5,alcanar01
+19,Scott Alexander*,25,KCR,0,0,,,/1,alexasc02
+20,Cody Allen,26,CLE,4,0,0,"$547,100 ",1,allenco01
+21,Abraham Almonte#,26,2TM,82,258,0.8,,8/H,almonab01
+22,Miguel Almonte,22,KCR,1,0,0,,/1,almonmi01
+23,Yonder Alonso*,28,SDP,103,402,1.9,"$1,650,000 ",3/H5,alonsyo01
+24,Aaron Altherr,24,PHI,39,161,1.8,,79/8H,altheaa01
+25,Jose Altuve,25,HOU,154,689,4,"$2,500,000 ",*4/D,altuvjo01
+26,Dariel Álvarez,26,BAL,12,31,0,,8-Sep,alvarda02
+27,Dario Alvarez*,26,NYM,6,0,0,,/1,alvarda01
+28,Henderson Alvarez III,25,MIA,4,6,0.1,"$4,000,000 ",/1,alvarhe01
+29,Jose Alvarez*,26,LAA,3,0,0,"$509,500 ",1,alvarjo02
+30,Pedro Álvarez*,28,PIT,150,491,0.1,"$5,750,000 ",*3H/D,alvarpe01
+31,R.J. Alvarez,24,OAK,0,0,,"$507,500 ",1,alvarrj01
+32,Alexi Amarista*,26,SDP,118,357,-0.4,"$1,150,000 ",6H47/851,amarial01
+33,Brett Anderson*,27,LAD,29,61,-0.1,"$10,000,000 ",1,anderbr04
+34,Bryan Anderson*,28,OAK,4,8,0.1,,/2H,anderbr05
+35,Chase Anderson,27,ARI,28,57,-0.4,"$512,500 ",1/H,anderch01
+36,Cody Anderson,24,CLE,2,3,0,,1,anderco01
+37,Matt Andriese,25,TBR,2,1,0,"$507,500 ",1,andrima01
+38,Elvis Andrus,26,TEX,160,661,1.8,"$15,000,000 ",*6,andruel01
+39,Dean Anna*,28,STL,1,1,,,/H,annade01
+40,Nori Aoki*,33,SFG,93,392,1,"$4,000,000 ",7/H9D,aokino01
+41,Elvis Araujo*,23,PHI,36,1,0,,1,araujel01
+42,Chris Archer,26,TBR,2,5,-0.1,"$1,166,667 ",1,archech01
+43,Oswaldo Arcia*,24,MIN,19,65,-0.3,"$532,500 ",7/9H,arciaos01
+44,Nolan Arenado,24,COL,157,665,6.3,"$512,500 ",*5/H,arenano01
+45,J.P. Arencibia,29,TBR,24,73,0.7,,2/HD,arencjp01
+46,Joaquin Arias,30,SFG,40,59,0,"$1,450,000 ",H/5634D,ariasjo01
+47,Shawn Armstrong,24,CLE,0,0,,,/1,armstsh01
+48,Jonathan Aro,24,BOS,0,0,,,/1,arojo01
+49,Jake Arrieta,29,CHC,30,83,0.3,"$3,630,000 ",1,arrieja01
+50,Cody Asche*,25,PHI,129,456,-0.7,"$517,500 ",75H,ascheco01
+51,Alec Asher,23,PHI,6,6,0.1,,/1,asheral01
+52,Nevin Ashley,30,MIL,12,21,-0.2,,/2H,ashlene01
+53,Scott Atchison,39,CLE,0,0,,"$900,000 ",1,atchisc01
+54,Phillippe Aumont*,26,PHI,1,1,0.1,,/1,aumonph01
+55,Alex Avila*,28,DET,67,219,0,"$5,400,000 ",23/HD,avilaal01
+56,Luis Avilán*,25,2TM,66,1,0,"$530,000 ",1,avilalu01
+57,Mike Aviles,34,CLE,98,317,-1.5,"$3,500,000 ",756H4/8D9,avilemi01
+58,Dylan Axelrod,29,CIN,6,3,0,,/1,axelrdy01
+59,John Axford,32,COL,57,0,0,"$2,600,000 ",1,axforjo01
+60,Erick Aybar#,31,LAA,156,638,2.2,"$8,500,000 ",*6/HD,aybarer01
+61,Burke Badenhop,32,CIN,63,1,0,"$1,000,000 ",1,badenbu01
+62,Javier Báez,22,CHC,28,80,0.6,,45/6H3,baezja01
+63,Pedro Báez,27,LAD,48,0,0,"$512,500 ",1,baezpe01
+64,Andrew Bailey,31,NYY,1,0,0,,1,bailean01
+65,Homer Bailey,29,CIN,2,4,-0.1,"$10,000,000 ",/1,baileho02
+66,Jeff Baker,34,MIA,41,80,-0.2,"$2,100,000 ",H3/45D7,bakerje03
+67,Scott Baker,33,LAD,2,4,0,,/1,bakersc02
+68,Collin Balester,29,CIN,15,1,0,,1,balesco01
+69,Grant Balfour,37,TBR,1,0,0,,/1,balfogr01
+70,Jett Bandy,25,LAA,2,2,0.1,,/2H,bandyje01
+71,Manny Banuelos,24,ATL,7,7,-0.1,,/1,banuema01
+72,Clint Barmes,36,SDP,98,224,0.1,"$1,300,000 ",6H/3,barmecl01
+73,Austin Barnes,25,LAD,20,37,0.1,,2/H45,barneau01
+74,Brandon Barnes,29,COL,106,281,-1.1,,79H8,barnebr02
+75,Matt Barnes,25,BOS,0,0,,"$508,500 ",1,barnema01
+76,Darwin Barney,29,2TM,17,30,0.3,"$2,525,000 ",/56,barneda01
+77,Tucker Barnhart*,24,CIN,81,274,0.2,,2/H9,barnhtu01
+78,Steven Baron,24,SEA,4,11,-0.3,,/2,baronst01
+79,Kyle Barraclough,25,MIA,24,0,0,,1,barraky01
+80,Aaron Barrett,27,WSN,37,0,0,"$514,200 ",1,barreaa01
+81,Yhonathan Barrios#,23,MIL,5,0,0,,/1,barriyh01
+82,Anthony Bass,27,TEX,2,0,0,"$725,000 ",1,bassan01
+83,Chris Bassitt,26,OAK,1,2,0,,1,bassich01
+84,Antonio Bastardo,29,PIT,61,2,0,"$3,100,000 ",1,bastaan01
+85,Trevor Bauer,24,CLE,3,7,0,"$1,940,000 ",1,bauertr01
+86,José Bautista,34,TOR,153,666,4.8,"$14,000,000 ",*9D/H,bautijo02
+87,Mike Baxter*,30,CHC,34,66,0.1,,H9/3D7,baxtemi01
+88,Brandon Beachy,28,LAD,2,2,0,"$2,750,000 ",/1,beachbr01
+89,Chris Beck,24,CHW,0,0,,,/1,beckch02
+90,Gordon Beckham,28,CHW,100,237,0.6,"$2,000,000 ",5H4/6D,beckhgo01
+91,Tim Beckham,25,TBR,82,223,-0.2,"$508,100 ",46HD/5,beckhti01
+92,Cam Bedrosian,23,LAA,1,0,0,,1,bedroca01
+93,Dallas Beeler,26,CHC,3,3,0,"$508,000 ",/1,beeleda01
+94,Joe Beimel*,38,SEA,3,0,0,,1,beimejo01
+95,Ronald Belisario,32,TBR,1,1,0,,/1,belisro01
+96,Matt Belisle,35,STL,32,0,0,"$3,500,000 ",1,belisma01
+97,Jeff Beliveau*,28,TBR,2,0,0,"$513,600 ",/1,belivje01
+98,Andrew Bellatti,23,TBR,0,0,,,1,bellaan01
+99,Brandon Belt*,27,SFG,137,556,4.1,"$3,600,000 ",*37/H,beltbr01
+100,Carlos Beltrán#,38,NYY,133,531,1.1,"$15,000,000 ",*9/DH,beltrca01
+101,Adrián Beltré,36,TEX,143,619,4.4,"$16,000,000 ",*5/D,beltrad01
+102,Joaquín Benoit,37,SDP,62,0,0,"$8,000,000 ",1,benoijo01
+103,Christian Bergman,27,COL,29,15,0,,1,bergmch01
+104,Doug Bernier,35,MIN,4,6,0,,/45H,bernido01
+105,Quintin Berry*,30,CHC,8,1,0,,/H879,berryqu01
+106,Dellin Betances,27,NYY,4,0,0,"$507,500 ",1,betande01
+107,Rafael Betancourt,40,COL,44,0,0,"$1,000,000 ",1,betanra01
+108,Christian Bethancourt,23,ATL,48,160,-0.1,"$507,500 ",2/H,bethach01
+109,Chad Bettis,26,COL,17,33,0,,1,bettich01
+110,Mookie Betts,22,BOS,145,654,6.1,"$514,500 ",*89/HD,bettsmo01
+111,Jeff Bianchi,28,BOS,3,2,0,,/5H6,biancje01
+112,Chad Billingsley,30,PHI,7,14,0.1,"$1,500,000 ",/1,billich01
+113,Greg Bird*,22,NYY,46,178,0.7,,3/H,birdgr01
+114,Charlie Blackmon*,28,COL,157,682,2,"$517,500 ",*87/9H,blackch02
+115,Carson Blair,25,OAK,11,35,-0.4,,2,blairca01
+116,Andrés Blanco#,31,PHI,106,261,1.5,"$850,000 ",H546/3,blancan01
+117,Grégor Blanco*,31,SFG,115,372,1,"$3,600,000 ",87H9,blancgr01
+118,Kyle Blanks,28,TEX,18,71,0.6,,3/7DH,blankky01
+119,Joe Blanton,34,2TM,22,4,-0.1,,1,blantjo01
+120,Michael Blazek,26,MIL,42,4,0.1,"$508,500 ",1,blazemi01
+121,Jerry Blevins*,31,NYM,7,0,0,,/1,blevije01
+122,Willie Bloomquist,37,SEA,35,72,-0.5,"$3,000,000 ",H/465739,bloomwi01
+123,Brett Bochy,27,SFG,4,0,0,,/1,bochybr02
+124,Brennan Boesch*,30,CIN,51,94,-1.3,"$1,250,000 ",H/879D,boescbr01
+125,Xander Bogaerts,22,BOS,156,654,4.3,"$543,000 ",*6/H,bogaexa01
+126,Brian Bogusevic*,31,PHI,22,61,0.2,,9/H7,bogusbr01
+127,Mike Bolsinger,27,LAD,21,40,-0.4,,1,bolsimi01
+128,Emilio Bonifácio#,30,CHW,47,82,-0.9,"$3,000,000 ",H4/D875,bonifem01
+129,Justin Bour*,27,MIA,129,446,0.5,,*3H/D,bourju01
+130,Jason Bourgeois,33,CIN,68,212,-0.4,"$522,500 ",8H7/9,bourgja01
+131,Peter Bourjos,28,STL,117,225,-0.8,"$1,650,000 ",8H,bourjpe01
+132,Michael Bourn*,32,2TM,141,482,0.2,"$13,500,000 ",78/H9,bournmi01
+133,Brad Boxberger,27,TBR,7,0,0,"$521,400 ",1,boxbebr01
+134,Matthew Boyd*,24,2TM,1,0,0,,1,boydma01
+135,Blaine Boyer,33,MIN,7,0,0,"$750,000 ",1,boyerbl01
+136,Brad Brach,29,BAL,5,0,0,"$523,000 ",1,brachbr01
+137,Silvino Bracho,22,ARI,13,0,0,,1,brachsi01
+138,Archie Bradley,22,ARI,8,14,-0.1,,/1,bradlar01
+139,Jackie Bradley Jr.*,25,BOS,74,255,2,"$528,000 ",987/H,bradlja02
+140,Michael Brantley*,28,CLE,137,596,3.8,"$5,875,000 ",*78D/H,brantmi02
+141,Rob Brantly*,25,CHW,14,36,-0.3,,2/H,brantro01
+142,Ryan Braun,31,MIL,140,568,3.3,"$13,000,000 ",*9/HD,braunry02
+143,Craig Breslow*,34,BOS,4,0,0,"$2,000,000 ",1,breslcr01
+144,Ryan Brett#,23,TBR,3,4,0.1,,/4H,brettry01
+145,Jake Brigham,27,ATL,12,2,0,,1,brighja01
+146,Reid Brignac#,29,MIA,17,17,-0.2,,H/5,brignre01
+147,Sócrates Brito*,22,ARI,18,34,0.6,,H/987,britoso01
+148,Zack Britton*,27,BAL,2,0,0,"$3,200,000 ",1,brittza01
+149,Mike Broadway,28,SFG,21,0,0,,1,broadmi01
+150,Aaron Brooks,25,2TM,1,2,0,,1,brookaa01
+151,Rex Brothers*,27,COL,16,0,0,"$1,400,000 ",1,brothre01
+152,Brooks Brown*,30,COL,35,0,0,"$509,500 ",1,brownbr02
+153,Domonic Brown*,27,PHI,63,204,0.3,"$2,600,000 ",9H,browndo01
+154,Trevor Brown,23,SFG,13,43,-0.2,,2,browntr01
+155,Jonathan Broxton,31,2TM,62,0,0,"$9,000,000 ",1,broxtjo01
+156,Keon Broxton,25,PIT,7,2,-0.1,,/H879,broxtke01
+157,Jay Bruce*,28,CIN,157,649,0.9,"$12,000,000 ",*9/HD,bruceja01
+158,Kris Bryant,23,CHC,151,650,5.3,,*5/789H3D,bryankr01
+159,David Buchanan,26,PHI,15,23,0.2,"$512,500 ",1,buchada01
+160,Jake Buchanan,25,HOU,0,0,,,/1,buchaja01
+161,Clay Buchholz*,30,BOS,2,6,-0.1,"$12,000,000 ",1,buchhcl01
+162,Mark Buehrle*,36,TOR,4,9,0,"$20,000,000 ",1,buehrma01
+163,Madison Bumgarner,25,SFG,34,81,1,"$6,750,000 ",1/H,bumgama01
+164,Danny Burawa,26,2TM,12,0,0,,1,burawda01
+165,Enrique Burgos,24,ARI,30,0,0,,1,burgoen02
+166,A.J. Burnett,38,PIT,24,52,-0.1,"$8,500,000 ",1,burnea.01
+167,Billy Burns#,25,OAK,125,555,3.2,,*8/H,burnsbi02
+168,Emmanuel Burriss#,30,WSN,5,5,0.2,,/H4,burriem01
+169,Drew Butera,31,2TM,55,120,-0.3,"$987,500 ",2/3H,buterdr01
+170,Billy Butler,29,OAK,151,601,-0.6,"$6,666,000 ",*D/H3,butlebi03
+171,Eddie Butler,24,COL,16,24,-0.4,"$509,500 ",1,butleed01
+172,Joey Butler,29,TBR,88,276,0.5,,D7H/9,butlejo04
+173,Byron Buxton,21,MIN,46,138,0.4,,8/H,buxtoby01
+174,Marlon Byrd,37,2TM,135,544,1.4,"$8,000,000 ",*79/8HD,byrdma01
+175,Cesar Cabral*,26,BAL,0,0,,,/1,cabrace01
+176,Asdrúbal Cabrera#,29,TBR,143,551,1.6,"$7,500,000 ",*6/HD,cabreas01
+177,Everth Cabrera#,28,BAL,29,105,-0.8,"$2,400,000 ",6/4H,cabreev01
+178,Melky Cabrera#,30,CHW,158,683,1.5,"$13,000,000 ",*7/D,cabreme01
+179,Miguel Cabrera,32,DET,119,511,4.9,"$22,000,000 ",3D/H,cabremi01
+180,Ramón Cabrera#,25,CIN,13,30,0.5,,/2H,cabrera01
+181,Trevor Cahill,27,2TM,26,8,0,"$12,000,000 ",1,cahiltr01
+182,Lorenzo Cain,29,KCR,140,604,7,"$2,725,000 ",*8/9DH,cainlo01
+183,Matt Cain,30,SFG,12,20,-0.3,"$21,000,000 ",1,cainma01
+184,Kole Calhoun*,27,LAA,159,686,3.1,"$537,500 ",*9/H3D,calhoko01
+185,Orlando Calixte,23,KCR,2,3,0,,/H6,calixor01
+186,Alberto Callaspo#,32,2TM,97,261,-0.8,"$3,000,000 ",5H/4D,callaal01
+187,Arquimedes Caminero,28,PIT,67,0,0,"$515,500 ",1,caminar01
+188,Eric Campbell,28,NYM,71,206,-0.6,"$511,065 ",5H/37,campber01
+189,Leonel Campos,27,SDP,1,0,0,,/1,campole01
+190,Mark Canha,26,OAK,124,485,1.4,,37H/9D5,canhama01
+191,Robinson Canó*,32,SEA,156,674,3.5,"$24,000,000 ",*4/DH,canoro01
+192,Carter Capps,24,MIA,28,2,0.1,,1,cappsca01
+193,Chris Capuano*,36,NYY,2,1,0,"$5,000,000 ",1,capuach01
+194,Buddy Carlyle*,37,NYM,11,0,0,"$725,000 ",1,carlybu01
+195,David Carpenter,29,2TM,9,0,0,"$1,300,000 ",1,carpeda01
+196,David Carpenter,27,ATL,4,0,0,,/1,carpeda02
+197,Matt Carpenter*,29,STL,154,665,5,"$3,750,000 ",*54/3H,carpema01
+198,Carlos Carrasco,28,CLE,1,3,0.3,"$2,337,500 ",1,carraca01
+199,Ezequiel Carrera*,28,TOR,91,192,-1,,79H/8D,carreez01
+200,Scott Carroll,30,CHW,1,0,0,,1,carrosc02
+201,Chris Carter,28,HOU,129,460,0.5,"$4,175,000 ",*3H/D,cartech02
+202,Curt Casali,26,TBR,38,113,0.9,,2/HD,casalcu01
+203,Andrew Cashner,28,SDP,37,61,-0.2,"$4,050,000 ",1/H,cashnan01
+204,Santiago Casilla,34,SFG,64,0,0,"$5,000,000 ",1,garcija01
+205,Nick Castellanos,23,DET,154,595,1.3,"$525,000 ",*5/DH,casteni01
+206,Rusney Castillo,27,BOS,80,289,0.7,"$11,271,000 ",97/H8D,castiru02
+207,Welington Castillo,28,3TM,110,378,1.1,"$2,100,000 ",2H/D,castiwe01
+208,Angel Castro,32,OAK,1,0,0,,/1,castran01
+209,Daniel Castro,22,ATL,33,100,0.4,,46/H5,castrda01
+210,Jason Castro*,28,HOU,104,375,1.7,"$4,000,000 ",2/H,castrja01
+211,Miguel Castro,20,2TM,4,0,0,,/1,castrmi01
+212,Simon Castro,27,COL,11,0,0,,1,castrsi01
+213,Starlin Castro,25,CHC,151,578,0.4,"$6,857,143 ",*64H,castrst01
+214,Garin Cecchini*,24,BOS,2,4,-0.1,"$508,500 ",/H3D,cecchga01
+215,Brett Cecil,28,TOR,4,0,0,"$2,475,000 ",1,cecilbr01
+216,Darrell Ceciliani*,25,NYM,39,75,0.5,,H7/8,cecilda01
+217,Xavier Cedeño*,28,2TM,9,0,0,"$516,500 ",1,cedenxa01
+218,Juan Centeno*,25,MIL,10,23,-0.5,"$507,500 ",/2H,centeju01
+219,Francisco Cervelli,29,PIT,130,510,3.4,"$987,500 ",*2/HD,cervefr01
+220,Yoenis Céspedes,29,2TM,159,676,6.2,"$10,500,000 ",7/DH,cespeyo01
+221,Jhoulys Chacín,27,ARI,5,9,0,,/1,chacijh01
+222,Andrew Chafin,25,ARI,61,3,0,"$507,500 ",1,chafian01
+223,Joba Chamberlain,29,2TM,3,0,0,"$1,000,000 ",1,chambjo03
+224,Aroldis Chapman*,27,CIN,62,1,0,"$8,050,000 ",1,chapmar01
+225,Kevin Chapman*,27,HOU,0,0,,,/1,chapmke02
+226,Jesse Chavez,31,OAK,3,5,0,"$2,150,000 ",1,chaveje01
+227,Bruce Chen*,38,CLE,0,0,,,/1,chenbr01
+228,Wei-Yin Chen,29,BAL,0,0,,"$4,750,000 ",1,chenwe02
+229,Robinson Chirinos,31,TEX,78,273,1.7,"$518,290 ",2,chiriro01
+230,Lonnie Chisenhall*,26,CLE,106,362,1.9,"$2,250,000 ",95H/D,chiselo01
+231,Randy Choate*,39,STL,66,1,0.1,"$3,000,000 ",1,choatra01
+232,Michael Choice,25,TEX,1,1,-0.1,,/9,choicmi01
+233,Shin-Soo Choo*,32,TEX,149,653,3.2,"$14,000,000 ",*9/HD,choosh01
+234,Tony Cingrani*,25,CIN,33,2,0,"$525,500 ",1,cingrto01
+235,Pedro Ciriaco,29,ATL,84,151,0.1,,H5/643D7,ciriape01
+236,Steve Cishek,29,2TM,58,0,0,"$6,650,000 ",1,cishest01
+237,Alex Claudio*,23,TEX,0,0,,"$508,500 ",1,claudal01
+238,Steve Clevenger*,29,BAL,30,105,0.4,"$514,000 ",D/2H3,clevest01
+239,Tyler Clippard,30,2TM,30,1,0,"$8,300,001 ",1,clippty01
+240,Chris Coghlan*,30,CHC,148,503,2.2,"$2,505,000 ",*7H94/35,coghlch01
+241,Phil Coke*,32,2TM,16,0,0,"$2,250,000 ",1,cokeph01
+242,Chris Colabello,31,TOR,101,360,0.7,,37H9D,colabch01
+243,A.J. Cole,23,WSN,3,2,-0.1,,/1,coleaj01
+244,Gerrit Cole,24,PIT,30,71,0.1,"$531,000 ",1/H,colege01
+245,Dusty Coleman,28,KCR,4,5,-0.2,,/H5,colemdu01
+246,Louis Coleman,29,KCR,0,0,,"$725,000 ",/1,colemlo01
+247,Tyler Collins*,25,DET,60,207,-0.2,,7D/H9,collity01
+248,Josh Collmenter,29,ARI,41,32,0.1,"$1,400,000 ",1,collmjo01
+249,Alex Colomé,26,TBR,1,0,0,"$510,800 ",1,colomal01
+250,Bartolo Colon,42,NYM,31,64,-0.1,"$11,000,000 ",1,colonba01
+251,Christian Colón,26,KCR,43,119,0.3,"$509,525 ",64/5H,colonch01
+252,Michael Conforto*,22,NYM,56,194,2.1,,7/H,confomi01
+253,Hank Conger#,27,HOU,73,229,0.4,"$1,075,000 ",2H/7,congeha01
+254,Adam Conley*,25,MIA,13,22,0.1,,1,conlead01
+255,Carlos Contreras,24,CIN,22,0,0,,1,contrca01
+256,Ryan Cook,28,2TM,2,0,0,"$1,400,000 ",/1,cookry01
+257,Tim Cooney*,24,STL,6,11,0.2,,/1,cooneti01
+258,Scott Copeland,27,TOR,1,1,0,,/1,copelsc01
+259,Patrick Corbin*,25,ARI,15,29,0,"$524,000 ",1,corbipa01
+260,Erik Cordier,29,MIA,8,1,0,,/1,cordier01
+261,John Cornely,26,ATL,1,0,0,,/1,cornejo01
+262,Carlos Corporán#,31,TEX,33,121,-0.5,"$975,000 ",2/HD,corpoca01
+263,Carlos Correa,20,HOU,99,432,4.8,,6,correca01
+264,Kevin Correia,34,PHI,4,7,0,,/1,correke01
+265,Jarred Cosart,25,MIA,14,18,-0.1,"$540,000 ",1/H,cosarja01
+266,Caleb Cotham,27,NYY,1,0,0,,1,cothaca01
+267,Neal Cotts*,35,2TM,50,0,0,"$3,000,000 ",1,cottsne01
+268,Danny Coulombe*,25,2TM,5,1,0,,/1,couloda01
+269,Kaleb Cowart#,23,LAA,34,52,-0.1,,5/H,cowarka01
+270,Collin Cowgill,29,LAA,55,74,0.3,"$995,000 ",7H/89D,cowgico01
+271,Zack Cozart,29,CIN,53,214,1.7,"$2,350,000 ",6/H,cozarza01
+272,Allen Craig,30,BOS,36,88,-0.8,"$5,500,000 ",H/D973,craigal01
+273,Tyler Cravy,25,MIL,14,10,-0.1,,1,cravyty01
+274,Brandon Crawford*,28,SFG,143,561,5.8,"$3,175,000 ",*6/H,crawfbr01
+275,Carl Crawford*,33,LAD,69,193,-0.2,"$21,357,000 ",7H/D,crawfca02
+276,Coco Crisp#,35,OAK,44,139,-0.6,"$11,000,000 ",7H,crispco01
+277,Kyle Crockett*,23,CLE,3,0,0,"$510,900 ",1,crockky01
+278,C.J. Cron,25,LAA,113,404,0.4,"$512,500 ",3DH,croncj01
+279,Nelson Cruz,34,SEA,152,655,5.1,"$14,250,000 ",9D,cruzne02
+280,Tony Cruz,28,STL,69,151,-0.7,"$775,000 ",2H/5,cruzto03
+281,Michael Cuddyer,36,NYM,117,408,0.6,"$8,500,000 ",7H3/9D,cuddymi01
+282,Johnny Cueto,29,2TM,17,43,0,"$10,000,000 ",1,cuetojo01
+283,Brandon Cunniff,26,ATL,38,0,0,,1,cunnibr02
+284,Todd Cunningham#,26,ATL,39,93,0.1,"$507,500 ",7H/98,cunnito01
+285,Cheslor Cuthbert,22,KCR,19,50,0.3,,5/H34D,cuthbch01
+286,Chase d'Arnaud,28,PHI,11,18,-0.3,,/H65,darnach01
+287,Travis d'Arnaud,26,NYM,67,268,1.5,"$525,424 ",2/H,darnatr01
+288,John Danks*,30,CHW,0,0,,"$15,750,000 ",1,danksjo01
+289,Jordan Danks*,28,PHI,4,4,-0.1,,/H7,danksjo02
+290,Kyle Davies,31,NYY,1,0,0,,/1,davieky01
+291,Zach Davies,22,MIL,6,14,0,,/1,davieza02
+292,Chris Davis*,29,BAL,160,670,4.9,"$12,000,000 ",*39D,davisch02
+293,Ike Davis*,28,OAK,72,239,0.1,"$3,800,000 ",3/H1D,davisik02
+294,Khris Davis,27,MIL,121,440,0.6,"$519,500 ",7H,daviskh01
+295,Rajai Davis,34,DET,112,370,1.6,"$5,000,000 ",87H9/D,davisra01
+296,Wade Davis,29,KCR,6,0,0,"$7,000,000 ",1,daviswa01
+297,Alejandro De Aza*,31,3TM,114,365,0.7,"$5,000,000 ",79H/8D,deazaal01
+298,Justin De Fratus#,27,PHI,57,3,0,"$528,000 ",1,defraju01
+299,Iván De Jesús,28,CIN,76,222,-0.6,,H4756/3,dejesiv02
+300,Jorge De La Rosa*,34,COL,25,50,-0.4,"$12,500,000 ",1,rosajo01
+301,Rubby De La Rosa,26,ARI,31,68,-0.4,"$516,000 ",1,delarru01
+302,Abel De Los Santos,22,WSN,2,0,0,,/1,delosab01
+303,Jose De Paula,27,NYY,0,0,,,/1,depaujo02
+304,Cody Decker,28,SDP,8,12,-0.3,,/H3,deckeco01
+305,Jaff Decker*,25,PIT,23,36,-0.2,"$510,000 ",H/7981,deckeja01
+306,Sam Deduno,31,HOU,0,0,,"$525,100 ",/1,dedunsa01
+307,Jacob deGrom*,27,NYM,28,66,0.2,"$556,875 ",1/H,degroja01
+308,David DeJesus*,35,2TM,112,317,0,"$5,000,000 ",7HD/98,dejesda01
+309,Steve Delabar,31,TOR,1,0,0,,1,delabst01
+310,Randall Delgado,25,ARI,61,2,0,"$526,000 ",1,delgara01
+311,Matt den Dekker*,27,WSN,55,110,0.5,"$512,972 ",7H9/8,dendema01
+312,Chris Denorfia,34,CHC,103,231,-0.2,"$2,600,000 ",7H9/81,denorch01
+313,Daniel Descalso*,28,COL,101,209,-0.7,"$1,500,000 ",H64/359,descada01
+314,Anthony DeSclafani,25,CIN,30,64,0.1,"$507,500 ",1,desclan01
+315,Delino DeShields,22,TEX,121,492,1,,*87/HD4,deshide02
+316,Ian Desmond,29,WSN,156,641,2,"$11,000,000 ",*6/H,desmoia01
+317,Odrisamer Despaigne,28,SDP,31,34,-0.2,"$517,300 ",1,despaod01
+318,Ross Detwiler,29,2TM,24,1,0,"$3,450,000 ",1,detwiro01
+319,Elias Díaz,24,PIT,2,2,,,/H,diazel01
+320,Jairo Díaz,24,COL,19,0,0,,1,diazja01
+321,Jonathan Diaz,30,TOR,7,16,-0.1,,/67,diazjo02
+322,Jumbo Diaz,31,CIN,58,0,0,"$510,000 ",1,diazju03
+323,Alex Dickerson*,25,SDP,11,8,-0.1,,H/7,dickeal01
+324,Corey Dickerson*,26,COL,65,234,0.5,"$512,500 ",7/H8D,dickeco01
+325,R.A. Dickey,40,TOR,2,4,-0.1,"$12,000,000 ",1,dicker.01
+326,Jake Diekman,28,2TM,40,0,0,"$535,500 ",1,diekmja01
+327,Derek Dietrich*,25,MIA,90,289,0.1,,75H/34D,dietrde01
+328,Wilmer Difo#,23,WSN,15,11,-0.2,,H/4,difowi01
+329,Chris Dominguez,28,CIN,14,23,0.1,,/H379,dominch01
+330,José Domínguez,24,TBR,1,0,0,,/1,dominjo01
+331,Josh Donaldson,29,TOR,158,711,7.1,"$4,300,000 ",*5/DH,donaljo02
+332,Sean Doolittle*,28,OAK,1,0,0,"$780,000 ",1,doolise01
+333,Danny Dorn*,30,ARI,23,32,-0.3,,H/93,dornda01
+334,Felix Doubront*,27,2TM,0,0,,,1,doubrfe01
+335,Brian Dozier,28,MIN,157,704,2.8,"$2,000,000 ",*4,doziebr01
+336,Kyle Drabek,27,CHW,0,0,,"$518,200 ",/1,drabeky01
+337,Oliver Drake,28,BAL,1,0,0,,1,drakeol01
+338,Stephen Drew*,32,NYY,131,428,0.3,"$5,000,000 ",*46/H5,drewst01
+339,Brandon Drury,22,ARI,20,59,-0.2,,5/4H6,drurybr01
+340,Lucas Duda*,29,NYM,135,554,2.8,"$4,200,000 ",*3/H,dudalu01
+341,Brian Duensing*,32,MIN,4,1,0,"$2,700,000 ",1,duensbr01
+342,Tyler Duffey,24,MIN,0,0,,,1,duffety01
+343,Danny Duffy*,26,KCR,0,0,,"$2,425,000 ",1,duffyda01
+344,Matt Duffy,24,SFG,149,612,3.9,"$509,000 ",*5H/463,duffyma01
+345,Matt Duffy,26,HOU,8,9,0.2,,/H35,duffyma02
+346,Zach Duke*,32,CHW,6,0,0,"$4,500,000 ",1,dukeza01
+347,Ryan Dull,25,OAK,0,0,,,1,dullry01
+348,Mike Dunn*,30,MIA,67,1,0.1,"$2,350,000 ",1,dunnmi01
+349,Adam Duvall,26,CIN,27,72,0.1,,7/H3,duvalad01
+350,Allan Dykstra*,28,TBR,13,38,-0.5,,3,dykstal01
+351,Jarrod Dyson*,30,KCR,90,225,2.1,"$1,225,000 ",87H9/D,dysonja01
+352,Sam Dyson,27,2TM,43,0,0,"$507,500 ",1,dysonsa01
+353,Ed Easley,29,STL,4,7,-0.1,,/2H,easleed01
+354,Adam Eaton*,26,CHW,153,689,4.1,"$850,000 ",*8/DH,eatonad02
+355,Carl Edwards Jr.,23,CHC,5,1,0,,/1,edwarca01
+356,Jon Edwards,27,2TM,12,0,0,"$508,500 ",1,edwarjo02
+357,Jerad Eickhoff,24,PHI,7,16,0,,/1,eickhje01
+358,Roenis Elías*,26,SEA,0,0,,,1,eliasro01
+359,Brian Ellington,24,MIA,22,0,0,,1,ellinbr02
+360,A.J. Ellis,34,LAD,63,217,1.8,"$4,250,000 ",2/H,ellisaj01
+361,Jacoby Ellsbury*,31,NYY,111,501,1.8,"$21,142,857 ",*8/H,ellsbja01
+362,Jake Elmore,28,TBR,51,158,-0.8,,3/5467HD1,elmorja01
+363,Edwin Encarnación,32,TOR,146,624,4.9,"$10,000,000 ",D3/H,encared01
+364,Nathan Eovaldi,25,NYY,3,5,-0.1,"$3,300,000 ",1,eovalna01
+365,Robbie Erlin,24,SDP,3,6,-0.1,,/1,erlinro01
+366,Alcides Escobar,28,KCR,148,662,1,"$3,000,000 ",*6,escobal02
+367,Eduardo Escobar#,26,MIN,127,446,1.4,"$532,500 ",674/DH59,escobed01
+368,Yunel Escobar,32,WSN,139,591,2,"$5,000,000 ",*5/DH,escobyu01
+369,Danny Espinosa#,28,WSN,118,412,1.9,"$1,800,000 ",45H/637,espinda01
+370,Marco Estrada,31,TOR,2,6,0.1,"$3,900,000 ",1,estrama01
+371,Andre Ethier*,33,LAD,142,445,2.7,"$18,000,000 ",*97H/8D,ethiean01
+372,Dana Eveland*,31,ATL,9,0,0,,1,evelada01
+373,Jeurys Familia,25,NYM,74,0,0,"$523,925 ",1,familje01
+374,Buck Farmer*,24,DET,2,4,0,,1,farmebu01
+375,Danny Farquhar,28,SEA,1,0,0,"$527,000 ",1,farquda01
+376,Andrew Faulkner,22,TEX,1,0,0,,1,faulkan01
+377,Taylor Featherston,25,LAA,101,169,-0.1,,54H6/D,feathta01
+378,Scott Feldman*,32,HOU,1,2,0.1,"$10,000,000 ",1,feldmsc01
+379,Michael Feliz,22,HOU,1,0,0,,/1,felizmi01
+380,Neftalí Feliz,27,2TM,2,0,0,"$4,125,000 ",1,felizne01
+381,José Fernández,22,MIA,10,22,0.3,"$651,000 ",1,fernajo02
+382,Jeff Ferrell,24,DET,0,0,,,/1,ferreje01
+383,Thomas Field,28,TEX,14,45,-0.1,,4/H6,fieldth01
+384,Prince Fielder*,31,TEX,158,693,2,"$24,000,000 ",*D3/H,fieldpr01
+385,Daniel Fields*,24,DET,1,3,-0.1,,/7,fieldda01
+386,Josh Fields,29,HOU,4,0,0,"$516,700 ",1,fieldjo03
+387,Casey Fien,31,MIN,3,0,0,"$1,375,000 ",1,fienca01
+388,Mike Fiers,30,2TM,18,34,-0.2,"$512,500 ",1,fiersmi01
+389,Cole Figueroa*,28,NYY,2,8,0,,/5,figueco01
+390,Brandon Finnegan*,22,2TM,6,6,-0.1,,/1,finnebr01
+391,Doug Fister*,31,WSN,29,39,0.2,"$11,400,000 ",1/H,fistedo01
+392,Ryan Flaherty*,28,BAL,91,301,0.2,"$1,075,000 ",463/5H97,flahery01
+393,Yohan Flande*,29,COL,18,22,-0.1,,1,flandyo01
+394,Kendry Flores,23,MIA,6,1,0,,/1,floreke01
+395,Ramón Flores*,23,NYY,12,33,0,,9-Jul,florera02
+396,Wilmer Flores,23,NYM,137,510,1.2,"$513,543 ",64/H,florewi01
+397,Pedro Florimón#,28,PIT,24,25,-0.2,"$521,000 ",6H/4,floripe01
+398,Tyler Flowers,29,CHW,112,361,0.8,"$2,675,000 ",*2/3DH,flowety01
+399,Gavin Floyd,32,CLE,0,0,,"$4,000,000 ",/1,floydga01
+400,Mike Foltynewicz,23,ATL,17,30,-0.2,"$508,750 ",1,foltymi01
+401,Logan Forsythe,28,TBR,153,615,4.6,"$1,100,000 ",*43/5DH,forsylo01
+402,Dexter Fowler#,29,CHC,156,690,2.4,"$9,500,000 ",*8/H,fowlede01
+403,Jeff Francis*,34,TOR,0,0,,,1,francje01
+404,Maikel Franco,22,PHI,80,335,1.8,,5/3H,francma02
+405,Jeff Francoeur,31,PHI,118,343,-0.7,"$950,000 ",9H7/D1,francje02
+406,Kevin Frandsen,33,SFG,7,13,0,,/3H,frandke01
+407,Nick Franklin#,24,TBR,44,109,-0.7,"$1,021,800 ",4H63/D1,frankni01
+408,Jason Frasor,37,2TM,7,0,0,"$1,250,000 ",/1,frasoja01
+409,Todd Frazier,29,CIN,157,678,3.5,"$4,500,000 ",*5/H,frazito01
+410,Freddie Freeman*,25,ATL,118,481,3,"$8,500,000 ",*3/HD,freemfr01
+411,Sam Freeman,28,TEX,4,0,0,"$517,000 ",1,freemsa01
+412,David Freese,32,LAA,121,470,2.9,"$6,425,000 ",*5/DH,freesda01
+413,Carlos Frías,25,LAD,16,24,-0.1,,1,friasca01
+414,Christian Friedrich,27,COL,63,3,0,"$512,500 ",1,friedch01
+415,Ernesto Frieri,29,TBR,2,0,0,"$800,000 ",1,frierer01
+416,Eric Fryer,29,MIN,15,27,0.2,,2/H,fryerer01
+417,Kyuji Fujikawa*,34,TEX,0,0,,"$1,100,000 ",/1,fujikky01
+418,Sam Fuld*,33,OAK,120,325,0.8,"$1,750,000 ",78H9/D,fuldsa01
+419,Charlie Furbush*,29,SEA,3,0,0,"$1,300,000 ",1,furbuch01
+420,Rocky Gale,27,SDP,11,10,-0.2,,/2H,galero01
+421,Yovani Gallardo,29,TEX,2,4,0.1,"$14,000,000 ",1,gallayo01
+422,Joey Gallo*,21,TEX,36,123,0.3,,75/HD8,gallojo01
+423,Freddy Galvis#,25,PHI,151,603,0.1,"$513,500 ",*6/4H,galvifr01
+424,Frank Garces*,25,SDP,37,0,0,"$508,500 ",1,garcefr01
+425,Adonis García,30,ATL,58,198,0.3,,57/H,garciad01
+426,Avisaíl García,24,CHW,148,601,0.3,"$523,000 ",*9D/H,garciav01
+427,Greg Garcia*,25,STL,49,87,0.4,,H64/5,garcigr01
+428,Jaime García*,28,STL,19,44,-0.1,"$9,250,000 ",1,garcija02
+429,Jason García,22,BAL,3,1,0.1,,1,garcija03
+430,Leury Garcia#,24,CHW,17,15,-0.1,,/H864D71,garcile02
+431,Luis García,28,PHI,69,0,0,"$509,000 ",1,garcilu03
+432,Yimi García,24,LAD,55,0,0,"$510,000 ",1,garciyi01
+433,Brett Gardner*,31,NYY,151,656,3.6,"$12,500,000 ",*78/H,gardnbr01
+434,Dustin Garneau,27,COL,22,76,-0.1,,2,garnedu01
+435,Matt Garza,31,MIL,25,47,-0.5,"$12,500,000 ",1,garzama01
+436,Evan Gattis,28,HOU,153,604,0.9,"$526,500 ",*D7/H,gattiev01
+437,Kevin Gausman*,24,BAL,1,0,0,"$522,000 ",1,gausmke01
+438,Cory Gearrin,29,SFG,6,0,0,,/1,gearrco01
+439,Dillon Gee,29,NYM,8,12,0,"$5,300,000 ",/1,geedi01
+440,Steve Geltz,27,TBR,5,0,0,,1,geltzst01
+441,Scooter Gennett*,25,MIL,114,391,0,"$516,500 ",4H,gennesc01
+442,Craig Gentry,31,OAK,26,56,-0.5,"$1,600,000 ",7/89HD,gentrcr01
+443,Gonzalez Germen,27,2TM,35,1,0,,1,germego01
+444,Johnny Giavotella,27,LAA,129,502,1.2,"$516,250 ",*4/H6,giavojo01
+445,Kyle Gibson,27,MIN,2,5,0,"$537,500 ",1,gibsoky01
+446,Ken Giles,24,PHI,65,0,0,"$519,000 ",1,gileske01
+447,Conor Gillaspie*,27,2TM,75,253,-0.6,"$550,000 ",5/H3D4,gillaco01
+448,Cole Gillespie,31,MIA,67,157,0.5,,89H7,gilleco01
+449,Sean Gilmartin*,25,NYM,48,6,0.1,,1,gilmase01
+450,Chris Gimenez,32,TEX,36,113,0.7,,2,gimench01
+451,Mychal Givens,25,BAL,1,0,0,,1,givenmy01
+452,Zack Godley,25,ARI,8,10,-0.1,,/1,godleza01
+453,Erik Goeddel,26,NYM,33,1,0,"$509,125 ",1,goedder01
+454,David Goforth,26,MIL,20,4,-0.1,,1,goforda01
+455,Ryan Goins*,27,TOR,128,428,2,"$512,800 ",46/H579,goinsry01
+456,Paul Goldschmidt,27,ARI,159,695,8.3,"$3,100,000 ",*3/DH,goldspa01
+457,Brandon Gomes,30,TBR,4,0,0,,1,gomesbr01
+458,Jonny Gomes,34,2TM,95,262,-0.8,"$4,000,000 ",7H/91,gomesjo01
+459,Yan Gomes,27,CLE,95,389,0.9,"$1,000,000 ",2/DH,gomesya01
+460,Carlos Gómez,29,2TM,115,477,2.2,"$8,000,000 ",8/HD,gomezca01
+461,Héctor Gómez,27,MIL,66,134,-0.3,"$507,500 ",H45/67,gomezhe01
+462,Jeanmar Gómez,27,PHI,61,1,0,"$800,000 ",1,gomezje01
+463,Marco Gonzales*,23,STL,1,0,0,,/1,gonzama02
+464,Adrián González*,33,LAD,156,643,4.6,"$21,857,000 ",*3/HD,gonzaad01
+465,Carlos González*,29,COL,153,608,2.6,"$16,000,000 ",*9/H,gonzaca01
+466,Chi Chi González,23,TEX,0,0,,,1,gonzach01
+467,Gio Gonzalez,29,WSN,27,56,-0.1,"$11,000,000 ",1,gonzagi01
+468,Marwin Gonzalez#,26,HOU,120,370,2.7,"$1,062,500 ",36H547/D,gonzama01
+469,Miguel González,31,BAL,1,1,0,"$3,275,000 ",1,gonzami03
+470,Severino González,22,PHI,7,12,0,,/1,gonzase01
+471,Nick Goody,23,NYY,1,0,0,,/1,goodyni01
+472,Alex Gordon*,31,KCR,104,422,2.6,"$12,500,000 ",7/DH,gordoal01
+473,Terrance Gore,24,KCR,9,4,-0.1,,/H7D,gorete01
+474,Tom Gorzelanny,32,DET,5,0,0,"$1,000,000 ",1,gorzeto01
+475,Anthony Gose*,24,DET,140,535,0.8,"$515,000 ",*8/H,gosean01
+476,Tuffy Gosewisch,31,ARI,38,138,0.6,"$514,500 ",2/H,gosewtu01
+477,Phil Gosselin,26,2TM,44,118,0.9,"$507,500 ",H4/57,gosseph01
+478,Trevor Gott,22,LAA,6,0,0,,1,gotttr01
+479,Matt Grace*,26,WSN,26,0,0,,1,gracema02
+480,J.R. Graham,25,MIN,4,0,0,,1,grahajr01
+481,Yasmani Grandal#,26,LAD,115,426,1.5,"$693,000 ",2H/3,grandya01
+482,Curtis Granderson*,34,NYM,157,682,5.1,"$16,000,000 ",*9H/8D,grandcu01
+483,Kendall Graveman,24,OAK,1,0,0,"$507,500 ",1,graveke01
+484,Jon Gray,23,COL,9,13,-0.1,,/1,grayjo02
+485,Sonny Gray,25,OAK,2,6,0,"$512,500 ",1,grayso01
+486,Grant Green,27,LAA,21,44,-0.6,,4/H3D76,greengr01
+487,Shane Greene,26,DET,2,5,-0.1,"$515,000 ",1,greensh02
+488,Nick Greenwood,27,STL,1,0,0,,/1,greenni02
+489,Luke Gregerson*,31,HOU,3,0,0,"$6,000,000 ",1,gregelu01
+490,Kevin Gregg,37,CIN,11,0,0,"$1,500,000 ",1,greggke01
+491,Didi Gregorius*,25,NYY,155,578,3,"$553,900 ",*6/H,gregodi01
+492,Zack Greinke,31,LAD,30,77,0.6,"$25,000,000 ",1,greinza01
+493,Randal Grichuk,23,STL,103,350,3.1,"$510,000 ",78H9,grichra01
+494,Jason Grilli,38,ATL,33,0,0,"$4,250,000 ",1,grillja01
+495,Justin Grimm,26,CHC,57,1,0,"$531,500 ",1,grimmju01
+496,Robbie Grossman#,25,HOU,24,54,-0.4,"$515,000 ",7/H9D,grossro01
+497,Mayckol Guaipe,24,SEA,2,0,0,,1,guaipma01
+498,Deolis Guerra,26,PIT,8,1,0,,1,guerrde01
+499,Javy Guerra,29,CHW,0,0,,"$937,500 ",/1,guerrja01
+500,Junior Guerra,30,CHW,1,0,0,,/1,guerrju02
+501,Alex Guerrero,28,LAD,106,230,-0.1,"$6,500,000 ",H75/D,guerral01
+502,Preston Guilmet,27,2TM,2,0,0,,/1,guilmpr01
+503,Jason Gurka*,27,COL,10,0,0,,/19,gurkaja01
+504,Jeremy Guthrie,36,KCR,2,5,0,"$9,000,000 ",1,guthrje01
+505,Franklin Gutierrez,32,SEA,59,189,2.6,,7H/D9,gutiefr01
+506,Brandon Guyer,29,TBR,128,385,2.2,"$515,800 ",*7H98/D,guyerbr01
+507,Jedd Gyorko,26,SDP,128,458,0.6,"$2,000,000 ",46H/3D,gyorkje01
+508,Nick Hagadone*,29,CLE,1,0,0,"$517,100 ",1,hagadni01
+509,Matt Hague,29,TOR,10,15,0,,/H3D5,haguema01
+510,Jesse Hahn,25,OAK,1,3,0,"$507,500 ",1,hahnje01
+511,David Hale,27,COL,15,27,-0.2,,1,haleda02
+512,Cody Hall,27,SFG,6,0,0,,/1,hallco01
+513,Cole Hamels*,31,2TM,20,46,-0.1,"$23,500,000 ",1,hamelco01
+514,Billy Hamilton,24,CIN,114,454,1.1,"$545,000 ",*8/H,hamilbi02
+515,Josh Hamilton*,34,TEX,50,182,0.5,"$22,708,749 ",79/HD,hamiljo03
+516,Jason Hammel,32,CHC,31,70,0.1,"$9,000,000 ",1/H,hammeja01
+517,Brad Hand*,25,MIA,35,23,-0.1,"$520,000 ",1,handbr01
+518,Donovan Hand,29,CIN,1,1,0,,/1,handdo01
+519,Ryan Hanigan,34,BOS,54,201,0.7,"$3,500,000 ",2/H,hanigry01
+520,J.A. Happ*,32,2TM,12,27,-0.1,"$6,700,000 ",1,happja01
+521,Aaron Harang,37,PHI,28,58,0.2,"$5,000,000 ",1,haranaa01
+522,Blaine Hardy*,28,DET,4,1,0,,1,hardybl01
+523,J.J. Hardy,32,BAL,114,437,-0.3,"$11,500,000 ",*6,hardyjj01
+524,Dan Haren,34,2TM,30,65,0.1,"$10,000,000 ",1/H,harenda01
+525,Bryce Harper*,22,WSN,153,654,9.7,"$2,500,000 ",*98/D,harpebr03
+526,Mitch Harris,29,STL,26,1,0,,1,harrimi03
+527,Will Harris,30,HOU,4,1,0,"$513,900 ",1,harriwi10
+528,Josh Harrison,27,PIT,114,449,1.7,"$3,050,000 ",549H7,harrijo05
+529,Matt Harrison*,29,TEX,1,3,0.1,,/1,harrima01
+530,Corey Hart,33,PIT,35,57,-0.5,"$2,500,000 ",H/39D,hartco01
+531,Matt Harvey,26,NYM,28,66,-0.2,"$614,125 ",1,harvema01
+532,Chris Hatcher#,30,LAD,45,1,0,"$522,500 ",1,hatchch02
+533,Marcus Hatley,27,STL,2,0,0,,/1,hatlema01
+534,LaTroy Hawkins,42,2TM,23,1,0,"$2,250,000 ",1,hawkila01
+535,Brett Hayes,31,CLE,14,36,-0.1,,2,hayesbr01
+536,Chase Headley#,31,NYY,156,642,0.8,"$13,000,000 ",*5/H3,headlch01
+537,Andrew Heaney*,24,LAA,2,6,-0.1,,1,heanean01
+538,Slade Heathcott*,24,NYY,17,30,0.4,,/98H,heathsl01
+539,Adeiny Hechavarria,26,MIA,130,499,2.6,"$1,925,000 ",*6,hechaad01
+540,Austin Hedges,22,SDP,56,152,-0.4,,2/H,hedgeau01
+541,Chris Heisey,30,LAD,33,72,0.2,"$2,160,000 ",798/H,heisech01
+542,Jeremy Hellickson,28,ARI,26,49,0.3,"$4,275,000 ",1/H,hellije01
+543,Heath Hembree,26,BOS,2,0,0,"$509,500 ",1,hembrhe01
+544,Kyle Hendricks,25,CHC,30,64,-0.4,"$510,000 ",1,hendrky01
+545,Liam Hendriks,26,TOR,5,1,0.1,"$518,400 ",1,hendrli01
+546,César Hernández#,25,PHI,127,452,1.4,"$510,000 ",4H65,hernace02
+547,David Hernandez,30,ARI,37,0,0,"$2,000,000 ",1,hernada01
+548,Enrique Hernández,23,LAD,76,218,1.7,,487H6/95,hernaen02
+549,Félix Hernández,29,SEA,1,3,0,"$24,857,000 ",1,hernafe02
+550,Gorkys Hernández,27,PIT,8,5,-0.1,,/7H9,hernago01
+551,Óscar Hernández,21,ARI,18,36,-0.3,,2/HD,hernaos01
+552,Roberto Hernandez,34,HOU,1,3,0,"$2,650,000 ",1,carmofa01
+553,Dilson Herrera,21,NYM,31,103,-0.2,,4/H,herredi01
+554,Elian Herrera#,30,MIL,83,277,0.2,,54H/97,herreel01
+555,Jonathan Herrera#,30,CHC,73,132,-0.8,"$900,000 ",H45/6,herrejo03
+556,Kelvin Herrera,25,KCR,8,0,0,"$1,600,000 ",1,herreke01
+557,Odúbel Herrera*,23,PHI,147,537,4.1,,*8H,herreod01
+558,Chris Herrmann*,27,MIN,45,113,-0.1,"$510,000 ",2/H39D,herrmch01
+559,Keith Hessler*,26,ARI,18,1,0.1,,1,hesslke01
+560,Chris Heston,27,SFG,28,58,0.1,,1,hestoch01
+561,Jason Heyward*,25,STL,154,610,6.9,"$7,800,000 ",*98/H,heywaja01
+562,Aaron Hicks#,25,MIN,97,390,1.4,,89/7H,hicksaa01
+563,John Hicks,25,SEA,17,34,-0.5,,2/DH5,hicksjo02
+564,Aaron Hill,33,ARI,116,353,0,"$12,000,000 ",45H/D,hillaa01
+565,Rich Hill*,35,BOS,0,0,,,/1,hillri01
+566,Taylor Hill,26,WSN,4,0,0,,/1,hillta01
+567,Dalier Hinojosa,29,2TM,17,0,0,,/1,hinojda01
+568,Luke Hochevar,31,KCR,5,0,0,"$4,000,000 ",1,hochelu01
+569,L.J. Hoes,25,HOU,8,16,0.2,,/97H,hoeslj01
+570,Bryan Holaday,27,DET,24,65,0.2,,2/HD34,holadbr01
+571,Derek Holland#,28,TEX,0,0,,"$7,400,000 ",1,hollade01
+572,Greg Holland,29,KCR,3,0,0,"$8,250,000 ",1,hollagr01
+573,Matt Holliday,35,STL,73,277,0.6,"$17,000,000 ",7/HD,hollima01
+574,David Holmberg,23,CIN,6,12,0.1,,/1,holmbda01
+575,Brock Holt*,27,BOS,129,509,2.7,"$530,500 ",45976/3H8D,holtbr01
+576,Tyler Holt,26,2TM,14,34,-0.3,,/8,holtty01
+577,J.J. Hoover,27,CIN,61,0,0,"$535,000 ",1,hoovejj01
+578,Eric Hosmer*,25,KCR,158,667,4.3,"$5,650,000 ",*3/HD9,hosmeer01
+579,T.J. House,25,CLE,0,0,,"$511,900 ",/1,housetj01
+580,Adrian Houser,22,MIL,2,0,0,,/1,housead01
+581,Ryan Howard*,35,PHI,129,503,-1.6,"$25,000,000 ",*3H/D,howarry01
+582,J.P. Howell*,32,LAD,62,0,0,"$4,000,000 ",1,howeljp01
+583,Daniel Hudson,28,ARI,61,1,0,"$800,000 ",1,hudsoda01
+584,Tim Hudson,39,SFG,22,42,0.3,"$12,000,000 ",1,hudsoti01
+585,David Huff#,30,LAD,3,1,0,,/1,huffda01
+586,Jared Hughes,29,PIT,71,1,0,"$1,075,000 ",1,hugheja02
+587,Phil Hughes,29,MIN,1,3,0,"$9,200,000 ",1,hugheph01
+588,Nick Hundley,31,COL,103,389,1.9,"$3,100,000 ",2/H,hundlni01
+589,Tommy Hunter,28,2TM,20,0,0,"$4,650,000 ",1,hunteto02
+590,Torii Hunter,39,MIN,139,567,-0.7,"$10,500,000 ",*9D/H,hunteto01
+591,Drew Hutchison*,24,TOR,1,0,0,"$520,100 ",1/H,hutchdr01
+592,Colt Hynes*,30,TOR,0,0,,"$510,800 ",/1,hynesco01
+593,Chris Iannetta,32,LAA,92,317,0.7,"$5,525,000 ",2/H3D,iannech01
+594,Edgar Ibarra*,26,LAA,0,0,,,/1,ibarred01
+595,José Iglesias,25,DET,120,454,1.3,"$1,443,750 ",*6/H,iglesjo01
+596,Raisel Iglesias,25,CIN,16,31,-0.2,"$1,714,286 ",1,iglesra01
+597,Ender Inciarte*,24,ARI,132,561,5,"$513,000 ",*978H,inciaen01
+598,Omar Infante,33,KCR,124,455,-0.7,"$7,500,000 ",*4/H,infanom01
+599,Travis Ishikawa*,31,2TM,44,72,-0.5,"$1,100,000 ",H3/7,ishiktr01
+600,Hisashi Iwakuma,34,SEA,2,3,0,"$7,000,000 ",1,iwakuhi01
+601,Austin Jackson,28,2TM,136,527,1.6,"$7,700,000 ",9H/87,jacksau01
+602,Edwin Jackson,31,2TM,45,1,0,"$13,000,000 ",1,jacksed01
+603,Jay Jackson,27,SDP,6,0,0,,/1,jacksja01
+604,Luke Jackson,23,TEX,0,0,,,/1,jackslu01
+605,Ryan Jackson,27,LAA,22,14,-0.4,,4/65H,jacksry02
+606,Juan Jaime,27,ATL,2,0,0,,/1,jaimeju01
+607,Paul Janish,32,BAL,14,36,0.3,,6/4H,janispa01
+608,Travis Jankowski*,24,SDP,34,96,0.1,,89/H,jankotr01
+609,Kenley Jansen#,27,LAD,51,0,0,"$7,425,000 ",1,janseke01
+610,Casey Janssen,33,WSN,45,0,0,"$3,500,000 ",1,janssca01
+611,John Jaso*,31,TBR,70,216,1,"$3,175,000 ",DH/79,jasojo01
+612,Jon Jay*,30,STL,79,245,-0.2,"$4,125,000 ",8H7/9,jayjo02
+613,Jeremy Jeffress,27,MIL,68,0,0,"$510,500 ",1,jeffrje01
+614,Chad Jenkins,27,TOR,0,0,,,/1,jenkich01
+615,Dan Jennings*,28,CHW,0,0,,"$523,000 ",1,jennida01
+616,Desmond Jennings,28,TBR,28,108,0.5,"$3,100,000 ",78/DH,jennide01
+617,Kevin Jepsen,30,2TM,6,0,0,"$3,025,000 ",1,jepseke01
+618,Cesar Jimenez*,30,2TM,18,0,0,"$575,000 ",1,jimence01
+619,Luis Jimenez,27,2TM,16,17,-0.3,"$508,500 ",/DH,jimenlu02
+620,Ubaldo Jiménez,31,BAL,4,8,0,"$12,250,000 ",1,jimenub01
+621,Brian Johnson*,24,BOS,0,0,,,/1,johnsbr02
+622,Chris Johnson,30,2TM,83,255,-0.6,"$6,000,000 ",53H/D,johnsch05
+623,Dan Johnson*,35,STL,12,21,-0.3,,/H3,johnsda06
+624,Erik Johnson,25,CHW,0,0,,,/1,johnser04
+625,Jim Johnson,32,2TM,64,0,0,"$1,600,000 ",1,johnsji04
+626,Kelly Johnson*,33,2TM,111,335,0.3,"$1,500,000 ",74H35/9D6,johnske05
+627,Micah Johnson*,24,CHW,36,114,-0.7,,4/H,johnsmi04
+628,Reed Johnson,38,WSN,17,24,-0.2,"$1,000,000 ",H/79,johnsre02
+629,Steve Johnson,27,BAL,0,0,,,/1,johnsst02
+630,Adam Jones,29,BAL,137,581,3.5,"$13,333,333 ",*8/D,jonesad01
+631,Garrett Jones*,34,NYY,57,152,-0.6,"$5,000,000 ",93H/D71,jonesga02
+632,James Jones*,26,SEA,28,31,-1,,8H/97D,jonesja06
+633,Nate Jones,29,CHW,0,0,,"$660,000 ",1,jonesna01
+634,Taylor Jordan,26,WSN,4,6,0.1,,/1,jordata01
+635,Caleb Joseph,29,BAL,100,355,2.1,"$515,000 ",2/DH3,josepca01
+636,Matt Joyce*,30,LAA,93,284,-0.9,"$4,750,000 ",7DH/9,joycema01
+637,Taylor Jungmann,25,MIL,21,44,0.4,,1,jungmta01
+638,Tommy Kahnle,25,COL,34,0,0,,1,kahnlto01
+639,Jung Ho Kang,28,PIT,126,467,3.9,"$2,500,000 ",56H,kangju01
+640,Nate Karns,27,TBR,2,5,0.2,"$508,800 ",1,karnsna01
+641,Munenori Kawasaki*,34,TOR,23,34,0.2,,4/H5,kawasmu01
+642,Scott Kazmir*,31,2TM,2,4,0,"$13,000,000 ",1,kazmisc01
+643,Keone Kela,22,TEX,6,0,0,,1,kelake01
+644,Shawn Kelley,31,SDP,50,0,0,"$2,835,000 ",1,kellesh01
+645,Casey Kelly,25,SDP,3,3,0,,/1,kellyca01
+646,Don Kelly*,35,MIA,2,1,0,"$1,250,000 ",/35H,kellydo01
+647,Joe Kelly,27,BOS,2,5,0,"$603,000 ",1,kellyjo05
+648,Ryan Kelly,27,ATL,16,0,0,,1,kellyry01
+649,Matt Kemp,30,SDP,154,648,0.5,"$21,250,000 ",*9/DH,kempma01
+650,Howie Kendrick,31,LAD,117,495,1.6,"$9,500,000 ",*4/H,kendrho01
+651,Kyle Kendrick,30,COL,25,49,0.3,"$5,500,000 ",1,kendrky01
+652,Ian Kennedy,30,SDP,27,48,-0.1,"$9,850,000 ",1,kenneia01
+653,Logan Kensing,32,SEA,0,0,,,1,kensilo01
+654,Max Kepler*,22,MIN,3,7,-0.1,,/H9,keplema01
+655,Clayton Kershaw*,27,LAD,31,79,0.1,"$32,571,429 ",1/H,kershcl01
+656,Dallas Keuchel*,27,HOU,2,6,0,"$524,500 ",1,keuchda01
+657,Kevin Kiermaier*,25,TBR,151,535,7.1,"$513,800 ",*8H/9,kiermke01
+658,Craig Kimbrel,27,SDP,54,1,0,"$9,000,000 ",1,kimbrcr01
+659,Ian Kinsler,33,DET,154,675,4.7,"$16,000,000 ",*4/DH,kinslia01
+660,Brandon Kintzler,30,MIL,7,1,0,"$1,075,000 ",/1,kintzbr01
+661,Jason Kipnis*,28,CLE,141,641,4,"$4,166,666 ",*4D/H,kipnija01
+662,Phil Klein,26,TEX,0,0,,"$509,500 ",1,kleinph01
+663,Corey Kluber,29,CLE,2,6,-0.1,"$1,200,000 ",1,klubeco01
+664,Corey Knebel,23,MIL,44,0,0,,1,knebeco01
+665,Guido Knudson,25,DET,1,0,0,,/1,knudsgu01
+666,Tom Koehler,29,MIA,30,64,0.1,"$555,000 ",1,koehlto01
+667,Michael Kohn,29,ATL,6,0,0,,/1,kohnmi01
+668,George Kontos,30,SFG,70,3,0,"$517,500 ",1,kontoge01
+669,Pete Kozma,27,STL,76,111,-0.8,"$522,000 ",H645/3D7,kozmape01
+670,Erik Kratz,35,2TM,16,28,-0.1,"$532,500 ",/2,kratzer01
+671,Marc Krauss*,27,3TM,27,81,-0.8,,3/D7H,krausma01
+672,Ian Krol*,24,DET,2,0,0,"$515,000 ",1,krolia01
+673,Kyle Kubitza*,24,LAA,19,39,-0.3,,5/H47D,kubitky01
+674,Tommy La Stella*,26,CHC,33,75,0.6,"$513,000 ",H45,lasteto01
+675,John Lackey,36,STL,31,70,-0.1,"$507,500 ",1,lackejo01
+676,Tyler Ladendorf,27,OAK,9,18,0.2,,/7H4856,ladenty01
+677,Aaron Laffey*,30,COL,3,2,0,,/1,laffeaa01
+678,Bobby LaFromboise*,29,PIT,11,0,0,,1,lafrobo01
+679,Juan Lagares,26,NYM,143,465,0.4,"$528,696 ",*8H/9,lagarju01
+680,Gerald Laird,35,ARI,1,2,-0.1,"$1,000,000 ",/2,lairdge01
+681,Junior Lake,25,2TM,29,84,-0.6,,/78DH,lakeju01
+682,Ryan LaMarre,26,CIN,21,26,-0.5,,8/H79,lamarry01
+683,Jake Lamb*,24,ARI,107,390,2.3,"$508,500 ",5H/3,lambja01
+684,John Lamb*,24,CIN,10,16,-0.1,,1,lambjo02
+685,Andrew Lambo*,26,PIT,20,27,-0.6,"$515,500 ",H/97,lamboan01
+686,Adam LaRoche*,35,CHW,127,484,-0.7,"$12,000,000 ",D3/H1,larocad01
+687,Mat Latos,27,3TM,21,34,0.5,"$9,400,000 ",/1,latosma01
+688,Ryan Lavarnway,27,2TM,37,106,-0.1,,2/H3,lavarry01
+689,Brett Lawrie,25,OAK,149,602,1.7,"$1,925,000 ",*54/DH,lawribr01
+690,Tommy Layne*,30,BOS,8,0,0,"$557,000 ",1,layneto01
+691,Raudel Lazo*,26,MIA,7,0,0,,/1,lazora01
+692,Mike Leake,27,2TM,34,73,-0.1,"$9,775,000 ",1/H,leakemi01
+693,Jack Leathersich,24,NYM,16,0,0,,1,leathja01
+694,Sam LeCure,31,CIN,19,1,0,"$1,850,000 ",1,lecursa01
+695,C.C. Lee,28,CLE,0,0,,,/1,leech01
+696,Zach Lee,23,LAD,1,2,0,,/1,leeza01
+697,DJ LeMahieu,26,COL,150,620,1.8,"$517,500 ",*4/H,lemahdj01
+698,Arnold Leon,26,OAK,0,0,,,1,leonar01
+699,Sandy León#,26,BOS,41,128,-0.1,"$510,400 ",2/HD5,leonsa01
+700,Dominic Leone,23,2TM,4,0,0,,/1,leonedo01
+701,Jon Lester*,31,CHC,30,71,-0.3,"$20,000,000 ",1,lestejo01
+702,Colby Lewis,35,TEX,1,2,0,"$4,000,000 ",1,lewisco01
+703,Adam Liberatore*,28,LAD,38,2,0,,1,liberad01
+704,Tim Lincecum*,31,SFG,16,25,0.1,"$18,000,000 ",1/H,linceti01
+705,Adam Lind*,31,MIL,149,572,3.6,"$7,500,000 ",*3H/D,lindad01
+706,Jacob Lindgren,22,NYY,0,0,,,/1,lindgja01
+707,Francisco Lindor#,21,CLE,99,438,4,,6/HD,lindofr01
+708,Francisco Liriano*,31,PIT,29,67,0.1,"$11,666,666 ",1,liriafr01
+709,Radhames Liz,31,PIT,14,1,0,"$1,000,000 ",1,lizra01
+710,Jose Lobatón#,30,WSN,44,155,-0.6,"$1,200,000 ",2/H,lobatjo01
+711,Kyle Lobstein*,25,DET,0,0,,,1,lobstky01
+712,Jeff Locke*,27,PIT,29,54,-0.2,"$531,000 ",1,lockeje01
+713,Adam Loewen*,31,PHI,19,3,0,,1,loewead01
+714,Boone Logan,30,COL,57,0,0,"$5,500,000 ",1,loganbo02
+715,Kyle Lohse,36,MIL,38,42,0.2,"$11,000,000 ",1/H,lohseky01
+716,Ryan Lollis*,28,SFG,5,13,-0.1,,/7H9,lolliry01
+717,Steve Lombardozzi#,26,PIT,12,11,,,H,lombast02
+718,James Loney*,31,TBR,104,388,-0.8,"$8,666,666 ",3/HD,loneyja01
+719,Evan Longoria,29,TBR,160,670,4.5,"$11,000,000 ",*5D/H,longoev01
+720,Javier López*,37,SFG,71,1,0,"$4,000,000 ",1,lopezja02
+721,Jorge López,22,MIL,2,3,0,,/1,lopezjo02
+722,Michael Lorenzen,23,CIN,30,41,0.3,,1/H,lorenmi01
+723,David Lough*,29,BAL,84,144,-0.2,"$525,500 ",78H/9D,loughda01
+724,Aaron Loup*,27,TOR,2,0,0,"$527,500 ",1,loupaa01
+725,Mark Lowe*,32,2TM,4,0,0,,1,lowema01
+726,Jed Lowrie#,31,HOU,69,263,1.1,"$8,000,000 ",56/HD,lowrije01
+727,Jonathan Lucroy,29,MIL,103,415,1,"$3,000,000 ",2H/3D,lucrojo01
+728,Lucas Luetge*,28,SEA,0,0,,,/1,luetglu01
+729,Jordan Lyles,24,COL,10,19,-0.3,"$2,475,000 ",1/H,lylesjo01
+730,Lance Lynn#,28,STL,28,55,0,"$7,000,000 ",1,lynnla01
+731,Tyler Lyons*,27,STL,17,20,0.1,,1,lyonsty01
+732,Dixon Machado,23,DET,24,78,0.1,,6/H,machadi01
+733,Manny Machado,22,BAL,162,713,7.5,"$548,000 ",*5/6,machama01
+734,Jean Machi,33,2TM,36,3,0,"$527,500 ",1,machije01
+735,Ryan Madson*,34,KCR,7,0,0,"$850,000 ",1,madsory01
+736,Mikie Mahtook,25,TBR,41,115,1.3,,789/HD,mahtomi01
+737,Luke Maile,24,TBR,15,35,-0.2,,2/H,mailelu01
+738,Martín Maldonado,28,MIL,79,256,0.3,"$825,000 ",2/H3,maldoma01
+739,Seth Maness,26,STL,74,3,0,"$530,000 ",1/H,manesse01
+740,Jeff Manship,30,CLE,4,0,0,,1,manshje01
+741,Shaun Marcum,33,CLE,0,0,,,/1,marcush01
+742,Sugar Ray Marimon,26,ATL,14,7,0.1,,1,marimsu01
+743,Michael Mariot,26,KCR,0,0,,,/1,mariomi01
+744,Jake Marisnick,24,HOU,133,372,2.5,"$511,200 ",*8H79/D,marisja01
+745,Nick Markakis*,31,ATL,156,686,2,"$11,000,000 ",*9/D,markani01
+746,Matt Marksberry*,24,ATL,30,0,0,,1,marksma01
+747,Jason Marquis*,36,CIN,8,17,0.1,"$1,500,000 ",/1H,marquja01
+748,Deven Marrero,24,BOS,25,56,-0.2,,5/H6D4,marrede01
+749,Evan Marshall,25,ARI,13,0,0,"$512,000 ",1,marshev01
+750,Alfredo Marte,26,LAA,5,8,0.2,,/7DH9,marteal01
+751,Jefry Marte,24,DET,33,90,-0.1,,3H/5D,marteje01
+752,Ketel Marte#,21,SEA,57,247,2.2,,6/48H,marteke01
+753,Starling Marte,26,PIT,153,633,5,"$1,333,333 ",*78/H,martest01
+754,Chris Martin,29,NYY,2,0,0,"$511,025 ",1,martich02
+755,Cody Martin,25,2TM,19,1,0,,1,martico01
+756,Leonys Martín*,27,TEX,95,310,0.9,"$4,750,000 ",8/HD,martile01
+757,Rafael Martín,31,WSN,12,0,0,,1,martira04
+758,Russell Martin,32,TOR,129,507,3.2,"$7,000,000 ",*2/HD4,martiru01
+759,Carlos Martinez,23,STL,31,63,-0.1,"$520,000 ",1/H,martica04
+760,J.D. Martinez,27,DET,158,657,5.4,"$3,000,000 ",*9D/H,martijd02
+761,Michael Martinez#,32,CLE,16,32,0,,/7H8D59,martimi02
+762,Nick Martinez*,24,TEX,2,4,0.1,"$515,000 ",1,martini01
+763,Victor Martinez#,36,DET,120,485,-1.8,"$14,000,000 ",D3/H,martivi01
+764,Nick Masset,33,2TM,27,0,0,,1,masseni01
+765,Justin Masterson,30,BOS,1,3,0.1,"$9,500,000 ",1,masteju01
+766,Marcos Mateo,31,SDP,25,0,0,,1,mateoma01
+767,Jeff Mathis,32,MIA,32,103,-0.5,"$1,500,000 ",2/H,mathije01
+768,Ryan Mattheus,31,2TM,54,0,0,,1,matthry01
+769,Brian Matusz*,28,BAL,5,0,0,"$3,200,000 ",1,matusbr01
+770,Steven Matz,24,NYM,6,14,0.1,,/1,matzst01
+771,Tyler Matzek*,24,COL,6,9,0.2,"$509,500 ",/1H,matzety01
+772,Joe Mauer*,32,MIN,158,666,1.3,"$23,000,000 ",*3D/H,mauerjo01
+773,Brandon Maurer,24,SDP,47,0,0,,1,maurebr01
+774,Justin Maxwell,31,SFG,100,274,0,"$1,000,000 ",9H7/8,maxweju01
+775,Trevor May,25,MIN,3,3,0,,1,maytr01
+776,John Mayberry,31,NYM,59,119,-0.5,"$1,450,000 ",H79/D,maybejo02
+777,Cameron Maybin,28,ATL,141,555,0.6,"$7,000,000 ",*8/H,maybica01
+778,Vin Mazzaro,28,MIA,8,0,0,,1,mazzavi01
+779,Cory Mazzoni,25,SDP,7,0,0,,/1,mazzoco01
+780,Zach McAllister,27,CLE,7,0,0,"$520,400 ",1,mcallza01
+781,Matt McBride,30,COL,20,43,-0.6,,H/379,mcbrima02
+782,Brian McCann*,31,NYY,135,535,2.8,"$17,000,000 ",*2H3/D,mccanbr01
+783,James McCann,25,DET,114,425,0.7,"$507,500 ",*2/HD,mccanja02
+784,Brandon McCarthy,31,LAD,4,9,0,"$12,500,000 ",/1,mccarbr01
+785,Lance McCullers Jr.*,21,HOU,1,2,0,,1,mcculla02
+786,Andrew McCutchen,28,PIT,157,685,5,"$10,000,000 ",*8/DH,mccutan01
+787,T.J. McFarland*,26,BAL,1,0,0,"$519,000 ",1,mcfartj01
+788,Jake McGee*,28,TBR,4,0,0,"$3,550,000 ",1,mcgeeja01
+789,Casey McGehee,32,2TM,109,258,-1.5,"$4,800,000 ",H53/D,mcgehca01
+790,Scott McGough,25,MIA,6,0,0,,/1,mcgousc01
+791,Dustin McGowan,33,PHI,13,3,0,"$650,000 ",1,mcgowdu01
+792,Collin McHugh,28,HOU,3,8,0.1,"$516,300 ",1,mchugco01
+793,Michael McKenry,30,COL,58,152,-0.1,"$1,087,600 ",2H/D,mckenmi01
+794,Andrew McKirahan,25,ATL,24,1,0,,1,mckiran01
+795,Yoervis Medina,26,2TM,5,0,0,"$527,300 ",/1,medinyo01
+796,Kris Medlen#,29,KCR,2,1,0,"$2,000,000 ",1,medlekr01
+797,Jenrry Mejia,25,NYM,7,0,0,"$2,595,000 ",/1,mejiaje01
+798,Mark Melancon,30,PIT,72,0,0,"$5,400,000 ",1,melanma01
+799,Roman Mendez,24,2TM,2,0,0,"$509,500 ",1,mendero01
+800,Jordy Mercer,28,PIT,116,430,0.4,"$538,000 ",*6/H,mercejo03
+801,Devin Mesoraco,27,CIN,23,51,-0.3,"$2,525,000 ",H/2D,mesorde01
+802,Alex Meyer,25,MIN,2,0,0,,/1,meyeral01
+803,Will Middlebrooks,26,SDP,83,270,-0.8,"$540,500 ",5H/63,middlwi01
+804,Wade Miley*,28,BOS,1,2,0,"$3,666,000 ",1,mileywa01
+805,Andrew Miller*,30,NYY,4,0,0,"$9,000,000 ",1,millean01
+806,Brad Miller*,25,SEA,144,497,0.1,"$527,600 ",687H4D/95,millebr02
+807,Justin Miller,28,COL,31,3,-0.1,,1,milleju02
+808,Shelby Miller,24,ATL,32,71,-0.3,"$535,000 ",1,millesh01
+809,Brad Mills,30,OAK,0,0,,,/1,millsbr02
+810,Tommy Milone*,28,MIN,1,2,0,"$2,775,000 ",1,milonto01
+811,Bryan Mitchell*,24,NYY,3,1,0,,1,mitchbr01
+812,Yadier Molina,32,STL,136,530,1.6,"$15,000,000 ",*2/HD,molinya01
+813,Johnny Monell*,29,NYM,27,52,-0.3,,H2,moneljo01
+814,Frankie Montas,22,CHW,0,0,,,/1,montafr02
+815,Jesus Montero,25,SEA,38,116,-0.4,,3/DH,monteje01
+816,Miguel Montero*,31,CHC,113,403,1.8,"$12,000,000 ",*2H/D,montemi01
+817,Rafael Montero,24,NYM,5,2,0,"$511,000 ",/1,montera01
+818,Mike Montgomery*,25,SEA,1,3,0,,1,montgmi01
+819,Adam Moore,31,CLE,1,4,0,,/2,mooread01
+820,Matt Moore*,26,TBR,1,2,0,"$3,000,000 ",1,moorema02
+821,Tyler Moore,28,WSN,97,200,-1.3,"$518,200 ",H37/19,moorety01
+822,Franklin Morales*,29,KCR,5,0,0,"$1,850,000 ",1,moralfr01
+823,Kendrys Morales#,32,KCR,158,639,2.7,"$6,500,000 ",*D/3H,moralke01
+824,Brent Morel,28,PIT,3,7,0,,/5H,morelbr01
+825,Mitch Moreland*,29,TEX,132,515,2.3,"$2,950,000 ",*3H/D,morelmi01
+826,Diego Moreno,27,NYY,0,0,,,/1,morendi01
+827,Adam Morgan*,25,PHI,13,27,0,,1,morgaad01
+828,Mike Morin,24,LAA,2,0,0,"$514,000 ",1,morinmi01
+829,Justin Morneau*,34,COL,49,182,0.4,"$6,750,000 ",3/HD,morneju01
+830,Akeel Morris,22,NYM,0,0,,,/1,morriak01
+831,Bryan Morris*,28,MIA,64,0,0,"$531,500 ",1,morribr01
+832,Logan Morrison*,27,SEA,146,511,-0.1,"$2,725,000 ",*3H/9D7,morrilo01
+833,Brandon Morrow,30,SDP,5,10,-0.1,"$2,500,000 ",/1,morrobr01
+834,Mike Morse,33,2TM,98,256,-0.2,,3H/7D,morsemi01
+835,Charlie Morton,31,PIT,21,43,-0.4,"$8,000,000 ",1,mortoch02
+836,Jon Moscot,23,CIN,2,4,0,,/1,moscojo01
+837,Brandon Moss*,31,2TM,145,526,-0.3,"$6,500,000 ",93/DH,mossbr01
+838,Jason Motte,33,CHC,55,0,0,"$4,500,000 ",1,motteja01
+839,Mike Moustakas*,26,KCR,147,614,4.1,"$2,640,000 ",*5/H,moustmi01
+840,Steven Moya*,23,DET,9,25,-0.1,,/9D7H,moyast01
+841,Peter Moylan,36,ATL,22,0,0,,1,moylape01
+842,Edward Mujica,31,2TM,4,0,0,"$4,750,000 ",1,mujiced01
+843,Max Muncy*,24,OAK,45,112,-0.3,,35H/D,muncyma01
+844,Daniel Muno#,26,NYM,17,32,-0.3,,H/54D,munoda01
+845,Toru Murata*,30,CLE,0,0,,,/1,muratto01
+846,Daniel Murphy*,30,NYM,130,538,1.2,"$8,000,000 ",453/HD,murphda08
+847,David Murphy*,33,2TM,132,391,0,"$6,000,000 ",7DH9/1,murphda07
+848,John Ryan Murphy,24,NYY,67,172,0.4,"$518,700 ",2/HD,murphjr01
+849,Tom Murphy,24,COL,11,39,0.1,,2,murphto04
+850,Colton Murray,25,PHI,7,0,0,,/1,murraco02
+851,Wil Myers,24,SDP,60,253,1.2,"$519,800 ",83/7H9,myerswi01
+852,Mike Napoli,33,2TM,133,469,0.8,"$16,000,000 ",*3H7/D,napolmi01
+853,Chris Narveson*,33,MIA,14,7,-0.1,,1,narvech01
+854,Joe Nathan,40,DET,0,0,,"$10,000,000 ",/1,nathajo01
+855,Daniel Nava#,32,2TM,60,166,-0.1,"$1,850,000 ",9H37/D,navada01
+856,Dioner Navarro#,31,TOR,54,192,0.8,"$5,000,000 ",2D/H,navardi01
+857,Efren Navarro*,29,LAA,54,88,0.2,"$511,000 ",37H/9D,navaref01
+858,Rey Navarro#,25,BAL,10,30,0,,/4H,navarre01
+859,Kristopher Negrón,29,CIN,43,107,-0.5,"$512,500 ",H76/48359,negrokr01
+860,Jimmy Nelson,26,MIL,27,59,-0.2,"$511,500 ",1,nelsoji02
+861,Hector Neris,26,PHI,30,1,0,,1,nerishe01
+862,Angel Nesbitt,24,DET,2,0,0,,1,nesbian01
+863,Pat Neshek#,34,HOU,5,0,0,"$5,500,000 ",1,neshepa01
+864,Juan Nicasio,28,LAD,52,1,0.1,"$2,300,000 ",1/H,nicasju01
+865,Justin Nicolino*,23,MIA,13,27,-0.3,,1/H,nicolju01
+866,Jon Niese*,28,NYM,31,60,0.5,"$7,000,000 ",1,niesejo01
+867,Kirk Nieuwenhuis*,27,2TM,74,141,0.7,"$525,415 ",/78H,nieuwki01
+868,Wil Nieves,37,SDP,6,14,-0.3,"$850,000 ",/23H,nievewi01
+869,Rico Noel,26,NYY,15,2,0,,H/D9,noelri02
+870,Hector Noesí,28,CHW,2,0,0,"$1,950,000 ",1,noesihe01
+871,Aaron Nola,22,PHI,13,26,-0.1,,1,nolaaa01
+872,Ricky Nolasco,32,MIN,1,3,0,"$12,000,000 ",/1,nolasri01
+873,Sean Nolin*,25,OAK,0,0,,,/1,nolinse01
+874,Nick Noonan*,26,SFG,14,24,-0.3,,/H63,noonani01
+875,Bud Norris,30,2TM,22,4,-0.1,"$8,800,000 ",1,norribu01
+876,Daniel Norris*,22,2TM,1,3,0.2,"$508,700 ",1,norrida01
+877,Derek Norris,26,SDP,147,557,2.5,"$545,000 ",*23H/D,norride01
+878,Iván Nova,28,NYY,0,0,,"$3,300,000 ",1,novaiv01
+879,Eduardo Núñez,28,MIN,72,204,1.2,"$1,025,000 ",6H5D/74,nunezed02
+880,Vidal Nuno III*,27,2TM,6,7,0,,/1,nunovi01
+881,Peter O'Brien,24,ARI,8,12,0.1,,/H7,obriepe01
+882,Darren O'Day,32,BAL,5,0,0,"$4,250,000 ",1,odayda01
+883,Eric O'Flaherty*,30,2TM,18,0,0,"$5,500,000 ",1,oflaher01
+884,Shawn O'Malley#,27,SEA,24,57,0.6,,8H/759D,omallsh01
+885,Ryan O'Rourke,27,MIN,0,0,,,1,orourry01
+886,Sean O'Sullivan,27,PHI,12,23,-0.1,,1,osullse01
+887,Scott Oberg,25,COL,61,0,0,,1,obergsc01
+888,Brett Oberholtzer*,25,HOU,1,3,0.1,"$515,800 ",/1,oberhbr01
+889,Rougned Odor*,21,TEX,120,470,2.1,"$513,850 ",*4/H,odorro01
+890,Jake Odorizzi,25,TBR,2,4,-0.1,"$522,000 ",1,odorija01
+891,Alexi Ogando,31,BOS,4,0,0,"$1,500,000 ",1,ogandal01
+892,Nefi Ogando,26,PHI,4,0,0,,/1,ogandne01
+893,Ross Ohlendorf,32,TEX,1,0,0,,1,ohlenro01
+894,Héctor Olivera,30,ATL,24,87,-0.1,,5/H,olivehe01
+895,Edgar Olmos*,25,SEA,0,0,,"$512,500 ",/1,olmosed01
+896,Tyler Olson,25,SEA,2,0,0,,1,olsonty01
+897,Mike Olt,26,2TM,30,102,-0.7,"$520,000 ",/5H,oltmi01
+898,Paulo Orlando,29,KCR,86,251,0.7,,97H/8D,orlanpa01
+899,David Ortiz*,39,BOS,146,614,3.1,"$16,000,000 ",*D/3H,ortizda01
+900,Josh Osich*,26,SFG,34,3,0,,1,osichjo01
+901,Roberto Osuna,20,TOR,4,0,0,,1,osunaro01
+902,Dan Otero,30,OAK,2,0,0,"$512,500 ",1,oteroda01
+903,Adam Ottavino#,29,COL,10,0,0,"$1,300,000 ",1,ottavad01
+904,Henry Owens*,22,BOS,1,2,0,,1,owenshe02
+905,Chris Owings,23,ARI,147,552,-0.2,"$512,500 ",*46H,owingch01
+906,Marcell Ozuna,24,MIA,123,494,0.9,"$545,000 ",*89/H,ozunama01
+907,Jordan Pacheco,29,ARI,29,78,-0.2,"$900,000 ",2H/35,pachejo01
+908,Ángel Pagán#,33,SFG,133,551,-1.8,"$10,250,000 ",*8H/D,paganan01
+909,Joe Panik*,24,SFG,100,432,3.5,"$522,500 ",4/H,panikjo01
+910,Jonathan Papelbon,34,2TM,58,0,0,"$13,000,000 ",1,papeljo01
+911,Jimmy Paredes#,26,BAL,104,384,0.4,"$515,000 ",DH/5497,paredji01
+912,Jarrett Parker*,26,SFG,21,54,0.5,,/9H78,parkeja03
+913,Kyle Parker,25,COL,46,112,-1.2,,7H/93,parkeky01
+914,Chris Parmelee*,27,BAL,32,102,-0.1,,3/9H,parmech01
+915,Bobby Parnell,30,NYM,28,0,0,"$3,700,000 ",1,parnebo01
+916,Gerardo Parra*,28,2TM,155,589,1.2,"$6,237,500 ",98/7H,parrage01
+917,Manny Parra*,32,CIN,40,0,0,"$3,500,000 ",1,parrama01
+918,Andy Parrino#,29,OAK,17,8,-0.1,,6/5H,parrian01
+919,Spencer Patton,27,TEX,2,0,0,,1,pattosp01
+920,Ben Paulsen*,27,COL,116,354,1.1,,3H7/9,paulsbe01
+921,James Paxton*,26,SEA,1,2,0,"$519,000 ",1,paxtoja01
+922,James Pazos,24,NYY,2,0,0,,1,pazosja01
+923,Brad Peacock,27,HOU,0,0,,"$515,800 ",/1,peacobr01
+924,Steve Pearce,32,BAL,92,325,0,"$3,700,000 ",734H/9D,pearcst01
+925,Jake Peavy,34,SFG,19,41,0.4,"$9,000,000 ",1,peavyja01
+926,Joc Pederson*,23,LAD,151,585,2.6,"$510,000 ",*8H,pederjo01
+927,Dustin Pedroia,31,BOS,93,425,2.6,"$12,500,000 ",4/D,pedrodu01
+928,Carlos Peguero*,28,2TM,34,90,0.5,,7H/98,pegueca01
+929,Mike Pelfrey,31,MIN,2,3,0.1,"$5,500,000 ",1,pelfrmi01
+930,Ariel Peña,26,MIL,6,7,-0.1,,/1,penaar01
+931,Brayan Peña#,33,CIN,108,367,0.4,"$1,400,000 ",2H/3D,penabr01
+932,Francisco Peña,25,KCR,8,7,0,,/2H,penafr01
+933,Hunter Pence,32,SFG,52,223,1,"$18,500,000 ",9/DH,pencehu01
+934,Cliff Pennington#,31,2TM,105,249,-0.3,"$3,275,000 ",H654/7,pennicl01
+936,Jhonny Peralta,33,STL,155,640,1.2,"$15,000,000 ",*6/HD,peraljh01
+937,Joel Peralta,39,LAD,33,1,0,"$2,500,000 ",1,peraljo01
+938,Wily Peralta,26,MIL,19,37,-0.1,"$525,500 ",1,peralwi01
+939,José Peraza,21,LAD,7,25,0,,/48H,perazjo01
+940,Carlos Pérez,24,LAA,86,283,1.4,,2/H3D,perezca02
+941,Eury Pérez,25,ATL,47,133,-0.2,,7H/98D,perezeu01
+942,Hernán Pérez,24,2TM,112,272,-0.5,"$508,500 ",/5H436D,perezhe01
+943,Juan Perez,28,SFG,22,40,0.2,,H/784,perezju02
+944,Martín Pérez*,24,TEX,1,2,0,"$1,000,000 ",1,perezma02
+945,Oliver Pérez*,33,2TM,46,0,0,"$2,500,000 ",1,perezol01
+946,Roberto Pérez,26,CLE,70,226,1.6,"$508,600 ",2/D,perezro02
+947,Salvador Perez,25,KCR,142,553,2.4,"$1,750,000 ",*2/D3H,perezsa02
+948,Williams Pérez,24,ATL,21,34,-0.1,,1,perezwi01
+949,Glen Perkins*,32,MIN,4,0,0,"$4,650,000 ",1,perkigl01
+950,Vinnie Pestano,30,LAA,1,0,0,"$1,150,000 ",1,pestavi01
+951,Jace Peterson*,25,ATL,152,597,1,"$507,500 ",*4H,peterja01
+952,Shane Peterson*,27,MIL,93,226,0.6,,H78/93D,petersh01
+953,Gregorio Petit,30,NYY,20,47,-0.6,"$510,000 ",4/H5D,petitgr01
+954,Yusmeiro Petit,30,SFG,40,10,-0.1,"$2,100,000 ",1,petityu01
+955,Jake Petricka,27,CHW,5,0,0,"$520,000 ",1,petrija01
+956,Tommy Pham,27,STL,52,173,1.5,,87H/9,phamth01
+957,Josh Phegley,27,OAK,73,243,1.7,"$510,000 ",2/H,phegljo01
+958,David Phelps,28,MIA,23,40,-0.1,"$1,400,000 ",1,phelpda01
+959,Brandon Phillips,34,CIN,148,623,2.2,"$12,000,000 ",*4/H6,phillbr01
+960,A.J. Pierzynski*,38,ATL,113,436,1.4,"$2,000,000 ",2/HD,pierza.01
+961,Kevin Pillar,26,TOR,159,628,5.2,"$512,000 ",*87/9H,pillake01
+962,Stolmy Pimentel,25,TEX,1,0,0,,/1,pimenst01
+963,Branden Pinder,26,NYY,2,1,0.1,,1,pindebr01
+964,Michael Pineda,26,NYY,1,2,0,"$2,100,000 ",1,pinedmi01
+965,Yohan Pino,31,KCR,0,0,,,/1,pinoyo01
+966,José Pirela,25,NYY,37,78,-0.6,"$510,000 ",4H/D79,pireljo01
+967,Stephen Piscotty,24,STL,63,256,0.9,,793/H8,piscost01
+968,Kevin Plawecki,24,NYM,73,258,1,,2/H,plaweke01
+969,Trevor Plouffe,29,MIN,152,632,2.9,"$4,800,000 ",*53,plouftr01
+970,Gregory Polanco*,23,PIT,153,652,2.5,"$525,000 ",*9H/78,polangr01
+971,Jorge Polanco#,21,MIN,4,12,-0.1,,/6H,polanjo01
+972,AJ Pollock,27,ARI,157,673,6.9,"$519,500 ",*8/H,polloaj01
+973,Drew Pomeranz,26,OAK,6,0,0,"$517,500 ",1,pomerdr01
+974,Dalton Pompey#,22,TOR,34,103,0.6,"$508,500 ",8/H7D,pompeda01
+975,Rick Porcello,26,BOS,1,2,0,"$12,500,000 ",1,porceri01
+976,Buster Posey,28,SFG,150,623,5.9,"$16,500,000 ",23/HD,poseybu01
+977,Martín Prado,31,MIA,129,551,3.4,"$11,000,000 ",*54/H,pradoma01
+978,Alex Presley*,29,HOU,8,13,-0.1,"$1,000,000 ",/7H89,preslal01
+979,Ryan Pressly,26,MIN,6,0,0,,1,pressry01
+980,David Price*,29,2TM,3,9,-0.2,"$19,750,000 ",1,priceda01
+981,Jason Pridie*,31,OAK,6,10,-0.2,,/H98D7,pridija01
+982,Yasiel Puig,24,LAD,79,311,1.1,"$6,214,000 ",9/H,puigya01
+983,Albert Pujols,35,LAA,157,661,3,"$24,000,000 ",3D/5,pujolal01
+984,Zach Putnam,27,CHW,3,0,0,"$525,000 ",1,putnaza01
+985,Kevin Quackenbush,26,SDP,56,0,0,,1,quackke01
+986,Chad Qualls,36,HOU,4,0,0,"$3,000,000 ",1,quallch01
+987,José Quintana,26,CHW,4,9,-0.1,"$3,400,000 ",1,quintjo01
+988,Ryan Raburn,34,CLE,82,201,1,"$2,500,000 ",DH79/1,raburry01
+989,Alexei Ramírez,33,CHW,154,622,1.1,"$10,000,000 ",*6/HD1,ramiral03
+990,Aramis Ramirez,37,2TM,137,516,-0.3,"$14,000,000 ",*5H/3D,ramirar01
+991,Erasmo Ramírez,25,TBR,2,2,0,"$522,800 ",1,ramirer02
+992,Hanley Ramirez,31,BOS,105,430,-0.7,"$19,750,000 ",7D/H5,ramirha01
+993,JC Ramirez,26,2TM,12,0,0,,1,ramirjc01
+994,José Ramírez#,22,CLE,97,355,1.2,"$511,300 ",645/H7D,ramirjo01
+995,José Ramírez,25,2TM,2,0,0,,/1,ramirjo02
+996,Neil Ramírez,26,CHC,19,0,0,"$514,500 ",1,ramirne01
+997,Noé Ramirez,25,BOS,0,0,,,1,ramirno01
+998,AJ Ramos,28,MIA,69,0,0,"$530,000 ",1,ramosaj01
+999,Cesár Ramos*,31,LAA,6,0,0,"$1,312,000 ",1,ramosce01
+1000,Wilson Ramos,27,WSN,128,504,1,"$3,550,000 ",*2/HD,ramoswi01
+1001,Anthony Ranaudo,25,TEX,1,2,0,,/1,ranauan01
+1002,Colby Rasmus*,28,HOU,137,485,2.8,"$8,000,000 ",*789H,rasmuco01
+1003,Cory Rasmus,27,LAA,2,1,0,"$513,000 ",1,rasmuco02
+1004,Rob Rasmussen,26,2TM,5,0,0,,1,rasmuro01
+1005,Josh Ravin,27,LAD,8,0,0,,/1,ravinjo01
+1006,Robbie Ray*,23,ARI,19,36,-0.2,,1,rayro02
+1007,Colin Rea,24,SDP,7,12,0.1,,/1H,reaco01
+1008,J.T. Realmuto,24,MIA,126,467,2.4,,*2H,realmjt01
+1009,Chris Rearick*,27,SDP,5,0,0,,/1,rearich01
+1010,Anthony Recker,31,NYM,32,92,-0.8,"$517,880 ",2/H35,reckean01
+1011,Josh Reddick*,28,OAK,149,582,3.6,"$4,100,000 ",*9H/D8,reddijo01
+1012,Todd Redmond,30,TOR,0,0,,"$520,000 ",/1,redmoto01
+1013,Addison Reed*,26,2TM,52,2,0,"$4,875,000 ",1,reedad01
+1014,Chris Reed*,25,MIA,2,0,0,,/1,reedch01
+1015,Michael Reed,22,MIL,7,6,0.1,,/H9,reedmi02
+1016,Rob Refsnyder,24,NYY,16,47,0.4,,4/H,refsnro01
+1017,Nolan Reimold,31,BAL,61,195,0.1,,7H9/8D,reimono01
+1018,Anthony Rendon,25,WSN,80,355,0.5,"$2,500,000 ",45/H,rendoan01
+1019,Ben Revere*,27,2TM,152,634,3,"$4,100,000 ",789/H,reverbe01
+1020,Jo-Jo Reyes*,30,LAA,0,0,,,/1,reyesjo03
+1021,José Reyes#,32,2TM,116,519,0.4,"$22,000,000 ",6,reyesjo01
+1022,Mark Reynolds,31,STL,140,432,-0.4,"$2,000,000 ",3H5/7D49,reynoma01
+1023,Matt Reynolds*,30,ARI,18,0,0,"$600,000 ",1,reynoma02
+1024,Clayton Richard*,31,CHC,22,15,0.1,,1,richacl01
+1025,Garrett Richards,27,LAA,0,0,,"$3,200,000 ",1,richaga01
+1026,C.J. Riefenhauser*,25,TBR,0,0,,,1,riefecj01
+1027,André Rienzo,26,MIA,13,2,0,,1,rienzan01
+1028,Alex Rios,34,KCR,105,411,-1.3,"$11,000,000 ",9,riosal01
+1029,René Rivera,31,TBR,110,319,-1.9,"$1,200,000 ",2/3HD,riverre01
+1030,Yadiel Rivera,23,MIL,7,15,-0.1,,/465,riverya01
+1031,Anthony Rizzo*,25,CHC,160,701,6.4,"$5,000,000 ",*3,rizzoan01
+1032,Donn Roach,25,CHC,1,1,0.1,,/1,roachdo01
+1033,Tanner Roark,28,WSN,37,29,0.1,"$529,600 ",1,roarkta01
+1034,Kenny Roberts*,27,2TM,14,0,0,,1,roberke02
+1035,Daniel Robertson,29,LAA,37,80,0.6,"$511,250 ",7H/89,roberda09
+1036,David Robertson,30,CHW,5,0,0,"$10,000,000 ",1,roberda08
+1037,Clint Robinson*,30,WSN,126,352,-0.1,"$525,000 ",3H79/D1,robincl01
+1038,Shane Robinson,30,MIN,83,197,0.3,"$550,000 ",7H89/D1,robinsh01
+1039,Hansel Robles,24,NYM,55,0,0,,1,robleha01
+1040,Fernando Rodney,38,2TM,21,0,0,"$7,000,000 ",1,rodnefe01
+1041,Carlos Rodón*,22,CHW,2,3,0,,1,rodonca01
+1042,Alex Rodriguez,39,NYY,151,620,3,"$22,000,000 ",*DH/53,rodrial01
+1043,Eduardo Rodriguez*,22,BOS,1,3,0,,1,rodried05
+1044,Fernando Rodriguez Jr.,31,OAK,6,0,0,"$635,000 ",1,rodrife02
+1045,Francisco Rodríguez,33,MIL,58,0,0,"$3,500,000 ",1,rodrifr03
+1046,Paco Rodríguez*,24,LAD,18,0,0,"$522,500 ",1,rodrist02
+1047,Sean Rodríguez,30,PIT,139,240,0,"$1,900,000 ",3H79/546,rodrise01
+1048,Wandy Rodriguez#,36,TEX,1,2,0.1,"$507,000 ",1,rodriwa01
+1049,Chaz Roe,28,BAL,3,0,0,,1,roech01
+1050,Esmil Rogers,29,NYY,1,0,0,"$1,480,000 ",1,rogeres01
+1051,Jason Rogers,27,MIL,86,169,0.5,"$507,500 ",H3/57D,rogerja02
+1052,Miguel Rojas,26,MIA,60,157,1.3,,6H/45,rojasmi02
+1053,David Rollins*,25,SEA,0,0,,,1,rollida01
+1054,Jimmy Rollins#,36,LAD,144,563,0.4,"$11,000,000 ",*6H,rolliji01
+1055,Jamie Romak,29,ARI,12,16,0,,H/73,romakja01
+1056,Enny Romero,24,TBR,0,0,,,1,romeren01
+1057,Stefen Romero,26,SEA,13,24,-0.1,,/79H8,romerst01
+1058,Andrew Romine#,29,DET,109,203,0.7,"$520,000 ",56H34/7D,rominan01
+1059,Austin Romine,26,NYY,1,2,-0.2,"$554,100 ",/3,rominau01
+1060,Sergio Romo,32,SFG,67,2,0,"$6,000,000 ",1,romose01
+1061,Bruce Rondón,24,DET,1,0,0,"$510,000 ",1,rondobr01
+1062,Héctor Rondón,27,CHC,69,0,0,"$544,000 ",1,rondohe01
+1063,Jorge Rondon,27,2TM,2,0,0,,/1,rondojo01
+1064,Adam Rosales,32,TEX,53,125,-0.1,"$900,000 ",345H/1D7,rosalad01
+1065,Eddie Rosario*,23,MIN,122,474,2.2,,*79/H8,rosared01
+1066,Wilin Rosario,26,COL,87,242,-1.5,"$2,800,000 ",3H/D2,rosarwi01
+1067,Trevor Rosenthal,25,STL,64,1,0,"$535,000 ",1,rosentr01
+1068,Seth Rosin,26,PHI,1,0,0,,/1,rosinse01
+1069,Cody Ross,34,OAK,9,25,-0.4,,/97HD,rossco01
+1070,David Ross,38,CHC,72,182,-0.1,"$2,500,000 ",2H/1,rossda01
+1071,Joe Ross,22,WSN,17,30,-0.1,,1/DH,rossjo01
+1072,Robbie Ross*,26,BOS,5,0,0,"$566,500 ",1,rossro01
+1073,Tyson Ross,28,SDP,32,68,0.7,"$5,250,000 ",1/H,rossty01
+1074,Zac Rosscup,27,CHC,32,0,0,,1,rosscza01
+1075,Ryan Rua,25,TEX,28,86,-0.2,"$508,500 ",7/39H,ruary01
+1076,Drew Rucinski,26,LAA,1,0,0,,/1,rucindr01
+1077,Darin Ruf,28,PHI,106,297,-0.3,"$515,000 ",3H7,rufda01
+1078,Justin Ruggiano,33,2TM,57,141,0.1,"$2,505,000 ",7/H9,ruggiju01
+1079,Carlos Ruiz,36,PHI,86,320,-0.6,"$8,500,000 ",2/H,ruizca01
+1080,Nick Rumbelow,23,NYY,1,0,0,,1,rumbeni01
+1081,Cameron Rupp,26,PHI,81,299,1.1,"$508,000 ",2/H,ruppca01
+1082,Chris Rusin*,28,COL,26,50,0.2,,1/H,rusinch01
+1083,Addison Russell,21,CHC,142,523,2.7,,46/H,russead02
+1084,James Russell*,29,CHC,46,1,0,,1,russeja02
+1085,Josh Rutledge,26,BOS,39,85,-0.2,,4/H5D,rutlejo01
+1086,Brendan Ryan,33,NYY,47,103,0,"$2,000,000 ",45/H6391,ryanbr01
+1087,Kyle Ryan*,23,DET,0,0,,,1,ryanky01
+1088,Marc Rzepczynski*,29,2TM,31,0,0,"$2,400,000 ",1,rzepcma01
+1089,CC Sabathia*,34,NYY,1,3,0,"$23,000,000 ",1,sabatc.01
+1090,Casey Sadler,24,PIT,1,2,0,,/1,sadleca02
+1091,Tyler Saladino,25,CHW,68,254,0.9,,56/H3,saladty01
+1092,Fernando Salas,30,LAA,5,0,0,"$1,370,000 ",1,salasfe01
+1093,Danny Salazar,25,CLE,2,4,-0.1,,1,salazda01
+1094,Chris Sale*,26,CHW,3,9,0,"$6,000,000 ",1,salech01
+1095,Jarrod Saltalamacchia#,30,2TM,79,227,0.6,,2H/3D,saltaja01
+1096,Jeff Samardzija,30,CHW,1,2,0,"$9,800,000 ",1,samarje01
+1097,Keyvius Sampson,24,CIN,13,17,-0.1,,1,sampske01
+1098,Aaron Sanchez,22,TOR,2,0,0,"$1,021,600 ",1,sanchaa01
+1099,Aníbal Sánchez,31,DET,2,4,-0.1,"$16,800,000 ",1,sanchan01
+1100,Gary Sanchez,22,NYY,2,2,,,/H,sanchga02
+1101,Héctor Sánchez#,25,SFG,28,59,-0.4,"$800,000 ",2H,sanchhe01
+1102,Tony Sanchez,27,PIT,3,9,0.2,"$518,000 ",/2H,sanchto01
+1103,Yolmer Sanchez#,23,CHW,120,420,0.1,"$510,000 ",*4/HD,sanchca01
+1104,Pablo Sandoval#,28,BOS,126,505,-0.5,"$17,600,000 ",*5/H,sandopa01
+1105,Jerry Sands,27,CLE,50,133,-0.4,,9H3/7D,sandsje01
+1106,Miguel Sanó,22,MIN,80,335,2.4,,D/53H,sanomi01
+1107,Carlos Santana#,29,CLE,154,666,0.4,"$6,000,000 ",*3D/H,santaca01
+1108,Danny Santana#,24,MIN,91,277,-1.9,"$530,000 ",6H/8D9,santada01
+1109,Domingo Santana,22,2TM,52,187,0.2,,/97H8,santado01
+1110,Ervin Santana,32,MIN,0,0,,"$13,500,000 ",1,santaer01
+1111,Héctor Santiago,27,LAA,3,5,0,"$2,290,000 ",1,santihe01
+1112,Sergio Santos,31,2TM,13,0,0,,1,santose01
+1113,Luis Sardinas#,22,MIL,36,105,-0.3,,46/H5,sardilu01
+1114,Michael Saunders*,28,TOR,9,36,-0.2,"$2,875,000 ",/97,saundmi01
+1115,Rob Scahill*,28,PIT,28,0,0,,1,scahiro01
+1116,Jordan Schafer*,28,MIN,27,74,-0.5,"$1,550,000 ",8/H7,schafjo02
+1117,Logan Schafer*,28,MIL,69,143,-0.5,"$510,500 ",8H/7,schaflo01
+1118,Scott Schebler*,24,LAD,19,40,0.6,,H/79,schebsc01
+1119,Tanner Scheppers,28,TEX,5,0,0,"$515,200 ",1,schepta01
+1120,Max Scherzer,30,WSN,32,77,0.5,"$17,142,000 ",1/H,scherma01
+1121,Brian Schlitter,29,CHC,10,0,0,,1,schlibr01
+1122,Jonathan Schoop,23,BAL,86,321,1.8,"$515,000 ",4/H,schoojo01
+1123,A.J. Schugel,26,ARI,5,0,0,,/1,schugaj01
+1124,Bo Schultz,29,TOR,3,0,0,,1,schulbo02
+1125,Skip Schumaker*,35,CIN,131,268,-1,"$2,500,000 ",H74/98D,schumsk01
+1126,Kyle Schwarber*,22,CHC,69,273,1.3,,72/HD9,schwaky01
+1127,Evan Scribner,29,OAK,2,0,0,"$512,500 ",1,scribev01
+1128,Xavier Scruggs,27,STL,17,43,-0.2,,3/H,scrugxa01
+1129,Corey Seager*,21,LAD,27,113,1.6,,6/5H,seageco01
+1130,Kyle Seager*,27,SEA,161,686,5.4,"$4,500,000 ",*5/H6,seageky01
+1131,Jean Segura,25,MIL,142,584,0.6,"$534,000 ",*6/H,segurje01
+1132,Marcus Semien,24,OAK,155,601,1.7,"$510,000 ",*6/H,semiema01
+1133,Luis Severino,21,NYY,1,2,0,,1,severlu01
+1134,Pedro Severino,21,WSN,2,4,0.1,,/2H,severpe01
+1135,Richie Shaffer,24,TBR,31,88,-0.1,,3/DH597,shaffri01
+1136,Bryan Shaw#,27,CLE,3,0,0,"$1,550,000 ",1,shawbr01
+1137,Travis Shaw*,25,BOS,65,248,1.1,,3/5H7,shawtr01
+1138,James Shields,33,SDP,34,74,-0.1,"$10,000,000 ",1/H,shielja02
+1139,Matt Shoemaker,28,LAA,1,2,0,"$517,500 ",1,shoemma01
+1140,Chasen Shreve*,24,NYY,3,0,0,"$510,275 ",1,shrevch01
+1141,JB Shuck*,28,CHW,79,165,0.9,"$516,000 ",H987,shuckja01
+1142,Kevin Siegrist*,25,STL,75,0,0,"$518,000 ",1,siegrke01
+1143,Andrelton Simmons,25,ATL,147,583,4.5,"$3,000,000 ",*6/H,simmoan01
+1144,Alfredo Simon,34,DET,2,5,-0.1,"$5,550,000 ",1,simonal01
+1145,Jon Singleton*,23,HOU,19,58,-0.4,"$2,000,000 ",3/DH,singljo02
+1146,Tony Sipp*,31,HOU,3,0,0,"$2,400,000 ",1,sippto01
+1147,Grady Sizemore*,32,2TM,97,296,-0.2,"$2,000,000 ",9H/7,sizemgr01
+1148,Carson Smith,25,SEA,5,0,0,,1,smithca02
+1149,Chad Smith*,25,OAK,0,0,,,/1,smithch09
+1150,Joe Smith,31,LAA,4,0,0,"$5,250,000 ",1,smithjo05
+1151,Josh A. Smith,27,CIN,10,10,0.1,,/1H,smithjo07
+1152,Seth Smith*,32,SEA,136,452,1.8,"$6,000,000 ",*79HD,smithse01
+1153,Will Smith,25,MIL,72,0,0,"$512,500 ",1,smithwi04
+1154,Justin Smoak#,28,TOR,132,328,0.9,"$1,000,000 ",*3H/D,smoakju01
+1155,Jake Smolinski,26,2TM,76,192,-0.1,"$508,500 ",7H9/D,smolija01
+1156,Drew Smyly*,26,TBR,0,0,,"$2,650,000 ",1,smylydr01
+1157,Travis Snider*,27,2TM,87,265,0.9,"$2,100,000 ",79/HD,snidetr01
+1158,Miguel Socolovich,28,STL,26,1,0,,1,socolmi01
+1159,Eric Sogard*,29,OAK,120,401,1.1,"$1,075,000 ",46H/D5,sogarer01
+1160,Donovan Solano,27,MIA,55,94,-0.5,"$531,500 ",H56/4,solando01
+1161,Jhonatan Solano,29,MIA,7,21,-0.4,,/2H,solanjh01
+1162,Yangervis Solarte#,27,SDP,152,571,2.3,"$516,400 ",53H4/D,solarya01
+1163,Jorge Soler,23,CHC,101,404,0,"$2,666,667 ",9/HD,solerjo01
+1164,Sammy Solís,26,WSN,18,2,0.1,,1,solissa01
+1165,Joakim Soria,31,2TM,33,0,0,"$7,000,000 ",1,soriajo01
+1166,Rafael Soriano,35,CHC,6,0,0,,/1,soriara01
+1167,Geovany Soto,32,CHW,78,210,0.9,"$1,500,000 ",2/HD,sotoge01
+1168,Giovanni Soto*,24,CLE,0,0,,,/1,sotogi01
+1169,Steven Souza Jr.,26,TBR,110,426,1.4,"$508,700 ",9/HD,souzast01
+1170,Denard Span*,31,WSN,61,275,1.1,"$9,000,000 ",8,spande01
+1171,Cory Spangenberg*,24,SDP,108,345,2.2,"$508,500 ",4H5/98D7,spangco01
+1172,George Springer,25,HOU,102,451,4.2,"$512,900 ",98/H,springe01
+1173,Craig Stammen,31,WSN,4,0,0,"$2,250,000 ",/1,stammcr01
+1174,Cody Stanley*,26,STL,9,10,0,,/H2,stanlco01
+1175,Giancarlo Stanton,25,MIA,74,318,3.7,"$6,500,000 ",9/D,stantmi03
+1176,Max Stassi,24,HOU,11,17,0.4,,2/DH,stassma01
+1177,Tim Stauffer,33,2TM,5,0,0,"$2,200,000 ",1,staufti01
+1178,Chris Stewart,33,PIT,58,172,0.5,"$1,225,000 ",2H,stewach01
+1179,Matt Stites*,25,ARI,11,0,0,"$510,500 ",1,stitema01
+1180,Drew Storen#,27,WSN,53,0,0,"$5,700,000 ",1,storedr01
+1181,Dan Straily,26,HOU,0,0,,,/1,straida01
+1182,Dee Strange-Gordon*,27,MIA,145,653,4.3,"$2,500,000 ",*4/H,gordode01
+1183,Stephen Strasburg,26,WSN,22,46,-0.1,"$7,400,000 ",1,strasst01
+1184,Ryan Strausborger,27,TEX,31,51,-0.6,,7H/D9,straury01
+1185,Huston Street,31,LAA,4,0,0,"$7,000,000 ",1,streehu01
+1186,Hunter Strickland,26,SFG,52,1,0,,1,strichu01
+1187,Marcus Stroman,24,TOR,0,0,,"$514,700 ",/1,stromma01
+1188,Pedro Strop,30,CHC,73,0,0,"$2,525,000 ",1,stroppe01
+1189,Drew Stubbs,30,2TM,78,140,-0.4,"$5,825,000 ",8H7/9,stubbdr01
+1190,Eric Stults*,35,ATL,9,16,-0.1,,/1,stulter01
+1191,Eugenio Suárez,23,CIN,97,398,0.9,,6/H5,suareeu01
+1192,Jesús Sucre,27,SEA,50,142,-0.5,"$509,300 ",1-Feb,sucreje01
+1193,Eric Surkamp*,27,LAD,1,1,0,,/1,surkaer01
+1194,Andrew Susac,25,SFG,52,148,0.1,,2H,susacan01
+1195,Ichiro Suzuki*,41,MIA,153,438,-1.1,"$3,200,000 ",*9H7/8D1,suzukic01
+1196,Kurt Suzuki,31,MIN,131,479,0.4,"$6,000,000 ",*2/H,suzukku01
+1197,Anthony Swarzak,29,CLE,0,0,,"$900,000 ",1,swarzan01
+1198,Darnell Sweeney#,24,PHI,37,98,-0.3,,H7/4859,sweenda02
+1199,Blake Swihart#,23,BOS,84,309,0.4,,2/H,swihabl01
+1200,Nick Swisher#,34,2TM,76,260,-1.4,"$15,000,000 ",73/H9D,swishni01
+1201,Noah Syndergaard*,22,NYM,22,50,0.3,,1,syndeno01
+1202,Matt Szczur,25,CHC,47,80,-0.5,"$508,500 ",H7/89,szczuma01
+1203,Jose Tabata,26,PIT,27,41,-0.3,"$4,000,000 ",H/97D,tabatjo01
+1204,Masahiro Tanaka,26,NYY,4,8,0,"$22,000,000 ",1,tanakma01
+1205,Travis Tartamella,27,STL,3,2,0,,/2,tartatr01
+1206,Chris Taylor,24,SEA,37,102,-0.8,"$512,400 ",6/H4D5,tayloch03
+1207,Michael A. Taylor,24,WSN,138,511,0.4,"$508,700 ",*87H/9,taylomi02
+1208,Junichi Tazawa,29,BOS,4,0,0,"$2,250,000 ",1,tazawju01
+1209,Everett Teaford*,31,TBR,0,0,,,/1,teafoev01
+1210,Taylor Teagarden,31,CHC,8,15,-0.2,,/2H,teagata01
+1211,Julio Teheran,24,ATL,30,68,-0.1,"$1,000,000 ",1,teherju01
+1212,Mark Teixeira#,35,NYY,111,462,3.3,"$23,125,000 ",3/DH,teixema01
+1213,Rubén Tejada,25,NYM,116,407,0.1,"$1,880,000 ",654/H,tejadru01
+1214,Tomás Telis#,24,2TM,23,41,-0.1,,/H2D,telisto01
+1215,Ryan Tepera,27,TOR,2,0,0,,1,teperry01
+1216,Joey Terdoslavich#,26,ATL,28,59,-0.1,"$507,500 ",H3/7,terdojo01
+1217,Joe Thatcher*,33,HOU,3,0,0,"$1,000,000 ",1,thatcjo01
+1218,Dale Thayer,34,SDP,36,0,0,"$1,375,000 ",1,thayeda01
+1219,Caleb Thielbar,28,MIN,0,0,,,/1,thielca01
+1220,Josh Thole*,28,TOR,18,52,-0.4,"$1,750,000 ",2,tholejo01
+1221,Ian Thomas,28,2TM,14,4,0,,1,thomaia01
+1222,Aaron Thompson*,28,MIN,6,0,0,"$520,000 ",1,thompaa01
+1223,Trayce Thompson,24,CHW,44,135,1.6,,978/HD,thomptr01
+1224,Tyler Thornburg,26,MIL,23,3,0,"$510,500 ",1,thornty01
+1225,Matt Thornton*,38,WSN,56,0,0,"$3,500,000 ",1,thornma01
+1226,Chris Tillman,27,BAL,1,2,0,"$4,315,000 ",1,tillmch01
+1227,Shawn Tolleson,27,TEX,4,0,0,"$519,700 ",1,tollesh01
+1228,Steven Tolleson,31,TOR,19,45,0.5,"$517,300 ",4/67H9,tollest01
+1229,Yasmany Tomás,24,ARI,118,426,-1,"$5,500,000 ",95H/73D,tomasya01
+1230,Josh Tomlin,30,CLE,0,0,,"$1,500,000 ",1,tomlijo01
+1231,Kelby Tomlinson,25,SFG,54,193,0.7,,4/H6,tomlike01
+1232,Michael Tonkin,25,MIN,2,0,0,,1,tonkimi01
+1233,Alex Torres*,27,NYM,37,1,0,"$522,900 ",1,torreal01
+1234,Carlos Torres,32,NYM,56,1,0,"$582,125 ",1,torreca01
+1235,Ronald Torreyes,22,LAD,8,8,0.1,,/4H5,torrero01
+1236,Matt Tracy*,26,NYY,0,0,,,/1,tracyma01
+1237,Devon Travis,24,TOR,62,239,2.1,,4/H,travide01
+1238,Blake Treinen,27,WSN,57,4,-0.1,"$512,800 ",1,treinbl01
+1239,Nick Tropeano,24,LAA,0,0,,,/1,tropeni01
+1240,Mike Trout,23,LAA,159,682,9.6,"$6,083,000 ",*8/D,troutmi01
+1241,Mark Trumbo,29,2TM,142,545,1.7,"$6,900,000 ",9/H3,trumbma01
+1242,Chin-hui Tsao,34,LAD,5,1,0.1,,/1,tsaoch01
+1243,Preston Tucker*,24,HOU,98,323,0.4,,7H9/D,tuckepr01
+1244,Sam Tuivailala,22,STL,12,0,0,,1,tuivasa01
+1245,Troy Tulowitzki,30,2TM,128,534,2.6,"$20,000,000 ",6/H,tulowtr01
+1246,Justin Turner,30,LAD,126,439,3.8,"$2,500,000 ",5H3/46,turneju01
+1247,Trea Turner,22,WSN,27,44,0.3,,H4/6,turnetr01
+1248,Koji Uehara,40,BOS,1,0,0,"$9,000,000 ",1,ueharko01
+1249,Dan Uggla,35,WSN,67,141,-0.5,"$507,500 ",H4/3D,ugglada01
+1250,B.J. Upton,30,SDP,87,228,1.5,"$14,450,000 ",8H,uptonbj01
+1251,Justin Upton,27,SDP,150,620,4.2,"$14,500,000 ",*7/HD,uptonju01
+1252,José Ureña,23,MIA,18,13,-0.1,,1,urenajo01
+1253,Juan Uribe,36,3TM,119,397,0.9,"$6,500,000 ",5H/4D,uribeju01
+1254,Henry Urrutia*,28,BAL,10,36,0.2,,/7DH,urruthe01
+1255,Gio Urshela,23,CLE,81,288,-0.3,,5/H,urshegi01
+1256,Chase Utley*,36,2TM,107,423,0.2,"$15,000,000 ",4H/35D,utleych01
+1257,Luis Valbuena*,29,HOU,132,493,2.6,"$4,200,000 ",53/HD4,valbulu01
+1258,Jordany Valdespin*,27,MIA,2,4,-0.1,,/H9,valdejo02
+1259,José Váldez,25,DET,0,0,,,/1,valdejo03
+1260,Danny Valencia,30,2TM,105,378,1.7,"$1,675,000 ",57H/394D,valenda01
+1261,Scott Van Slyke,28,LAD,96,253,0.9,"$522,500 ",7H93/8D,vanslsc01
+1262,Jason Vargas*,32,KCR,0,0,,"$8,500,000 ",/1,vargaja01
+1263,Kennys Vargas#,24,MIN,58,184,-0.6,"$517,500 ",D3H,vargake01
+1264,Anthony Varvaro,30,BOS,0,0,,"$576,500 ",/1,varvaan01
+1265,Felipe Vazquez*,23,WSN,46,0,0,,1,riverfe01
+1266,Donnie Veal*,30,ATL,5,0,0,,/1,vealdo01
+1267,Vince Velasquez,23,HOU,1,0,0,,1,velasvi01
+1268,Will Venable*,32,2TM,135,390,0.5,"$4,250,000 ",8H97,venabwi01
+1269,Pat Venditte*,30,OAK,2,1,0,,1,vendipa01
+1270,Yordano Ventura,24,KCR,3,6,-0.1,"$950,000 ",1,ventuyo01
+1271,Drew VerHagen,24,DET,1,0,0,,1,verhadr01
+1272,Justin Verlander,32,DET,0,0,,"$28,000,000 ",1,verlaju01
+1273,Logan Verrett,25,2TM,13,8,-0.1,,1,verrelo01
+1274,Shane Victorino,34,2TM,71,204,0.1,"$13,000,000 ",97H/8,victosh01
+1275,Carlos Villanueva,31,STL,32,11,-0.2,"$2,000,000 ",1,villaca01
+1276,Jonathan Villar#,24,HOU,53,128,0.7,,6H5/7D48,villajo01
+1277,Pedro Villarreal,27,CIN,27,6,0,,1,villape01
+1278,Nick Vincent,28,SDP,25,0,0,"$525,300 ",1,vinceni01
+1279,Arodys Vizcaíno,24,ATL,34,0,0,,1,vizcaar01
+1280,Ryan Vogelsong,37,SFG,30,45,0,"$4,000,000 ",1,vogelry01
+1281,Stephen Vogt*,30,OAK,136,511,3.7,"$512,500 ",23H/D,vogtst01
+1282,Edinson Volquez,31,KCR,3,6,-0.1,"$7,500,000 ",1,volqued01
+1283,Chris Volstad,28,PIT,1,0,0,,/1,volstch01
+1284,Joey Votto*,31,CIN,158,695,7.8,"$14,000,000 ",*3/H,vottojo01
+1285,Michael Wacha,23,STL,27,62,0.2,"$520,000 ",1,wachami01
+1286,Tsuyoshi Wada*,34,CHC,7,9,-0.1,"$4,000,000 ",/1,wadats01
+1287,Tyler Wagner,24,MIL,3,3,0,,/1,wagnety01
+1288,Adam Wainwright,33,STL,7,10,-0.1,"$19,500,000 ",/1,wainwad01
+1289,Jordan Walden,27,STL,12,0,0,"$2,675,000 ",1,waldejo01
+1290,Kyle Waldrop*,23,CIN,1,1,,,/H,waldrky02
+1291,Christian Walker,24,BAL,7,12,-0.1,,/H3D,walkech02
+1292,Neil Walker#,29,PIT,151,603,2.2,"$8,000,000 ",*4H,walkene01
+1293,Taijuan Walker#,22,SEA,4,10,0,"$513,100 ",1,walketa01
+1294,Brett Wallace*,28,SDP,64,107,0.8,,H3/5D,wallabr01
+1295,Zach Walters#,25,CLE,12,30,-0.4,"$509,600 ",/H74569,walteza01
+1296,Adam Warren,27,NYY,2,3,0,"$572,600 ",1,warread01
+1297,Tony Watson*,30,PIT,72,0,0,"$1,750,000 ",1,watsoto01
+1298,Jered Weaver,32,LAA,1,2,0,"$18,000,000 ",1,weaveje02
+1299,Daniel Webb,25,CHW,3,0,0,,1,webbda01
+1300,Ryan Webb,29,CLE,4,0,0,,1,webbry01
+1301,Ryan Weber,24,ATL,5,10,-0.1,,/1,weberry01
+1302,Allen Webster,25,ARI,9,11,0,,/1,webstal01
+1303,Jemile Weeks#,28,BOS,3,9,0.1,,/4,weeksje01
+1304,Rickie Weeks,32,SEA,37,95,-0.8,"$2,000,000 ",7HD,weeksri01
+1305,Jayson Werth,36,WSN,88,378,-1.5,"$21,000,000 ",79/HD,werthja01
+1306,Matt West,26,LAD,2,0,0,,/1,westma03
+1307,Chase Whitley,26,NYY,0,0,,,/1,whitlch01
+1308,Joe Wieland,25,LAD,1,2,0,"$590,000 ",/1,wielajo01
+1309,Matt Wieters#,29,BAL,75,282,0.9,"$8,300,000 ",2D/H3,wietema01
+1310,Tom Wilhelmsen,31,SEA,5,0,0,"$1,400,000 ",1,wilheto01
+1311,Adam Wilk*,27,LAA,0,0,,,/1,wilkad01
+1312,Jackson Williams,29,SFG,7,14,0.1,,/2H,willija01
+1313,Jerome Williams,33,PHI,30,36,0,"$2,500,000 ",1,willije01
+1314,Mason Williams*,23,NYY,8,22,0.1,,/8,willima10
+1315,Mac Williamson,24,SFG,10,34,-0.2,,/79DH,willima11
+1316,Alex Wilson,28,DET,3,0,0,,1,wilsoal01
+1317,Bobby Wilson,32,2TM,56,147,-0.2,"$700,000 ",2/HD,wilsobo02
+1318,C.J. Wilson*,34,LAA,2,6,0.1,"$18,000,000 ",1,wilsocj01
+1319,Josh Wilson,34,DET,21,41,0.2,,45/H6D1,wilsojo03
+1320,Justin Wilson*,27,NYY,6,0,0,"$556,000 ",1,wilsoju10
+1321,Tyler Wilson,25,BAL,2,3,0,,/1,wilsoty01
+1322,Dan Winkler,25,ATL,2,0,0,,/1,winklda01
+1323,Matt Wisler,22,ATL,20,36,0,,1/H,wislema01
+1324,Asher Wojciechowski,26,HOU,0,0,,,/1,wojcias01
+1325,Randy Wolf*,38,DET,0,0,,,/1,wolfra02
+1326,Kolten Wong*,24,STL,150,613,2.6,"$520,000 ",*4/H,wongko01
+1327,Alex Wood,24,2TM,29,67,0.3,"$520,000 ",1,woodal02
+1328,Travis Wood,28,CHC,57,32,-0.1,"$5,686,000 ",1/H,woodtr01
+1329,Rob Wooten,29,MIL,4,1,0,"$509,500 ",/1,wootero01
+1330,Vance Worley,27,PIT,23,18,0,"$2,450,000 ",1/H,worleva01
+1331,David Wright,32,NYM,38,174,0.6,"$20,000,000 ",5,wrighda03
+1332,Mike Wright Jr.,25,BAL,2,3,0.1,,1,wrighmi01
+1333,Steven Wright,30,BOS,1,2,0,"$510,500 ",1,wrighst01
+1334,Wesley Wright,30,2TM,0,0,,"$1,700,000 ",1,wrighwe01
+1335,Kirby Yates*,28,TBR,2,0,0,"$512,800 ",1,yateski01
+1336,Christian Yelich*,23,MIA,126,525,3.6,"$570,000 ",*78/H,yelicch01
+1337,Rafael Ynoa#,27,COL,72,131,-0.8,,H75/64,ynoara01
+1338,Chris Young,36,KCR,3,4,0.1,"$675,000 ",1,youngch03
+1339,Chris Young,31,NYY,140,356,1,"$2,500,000 ",*97H8/D,youngch04
+1340,Delmon Young,29,BAL,52,180,0.4,"$2,250,000 ",9H/D7,youngde03
+1341,Eric Young Jr.#,30,2TM,53,94,-0.4,"$1,000,000 ",H78/9,younger03
+1342,Brad Ziegler,35,ARI,63,0,0,"$5,000,000 ",1,zieglbr01
+1343,Ryan Zimmerman,30,WSN,95,390,0.7,"$14,000,000 ",3/H7,zimmery01
+1344,Jordan Zimmermann,29,WSN,31,69,-0.1,"$16,500,000 ",1,zimmejo02
+1345,Barry Zito*,37,OAK,0,0,,,/1,zitoba01
+1346,Ben Zobrist#,34,2TM,126,535,2.4,"$7,500,000 ",47/D95H,zobribe01
+1347,Mike Zunino,24,SEA,112,386,-0.7,"$523,500 ",*2/H,zuninmi01
+1348,Tony Zych,24,SEA,0,0,,,1,zychto01

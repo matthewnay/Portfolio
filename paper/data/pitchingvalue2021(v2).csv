@@ -1,0 +1,35 @@
+Name,Age,Tm,G,IP,WAR,Salary,Name-additional,Year
+Tyler Anderson*,31,2TM,31,167.0,1.7,2500000.0,anderty01,2021
+José Berríos,27,2TM,32,192.0,3.4,6100000.0,berrijo01,2021
+Walker Buehler,26,LAD,33,207.2,7.1,3750000.0,buehlwa01,2021
+Luis Castillo,28,CIN,33,187.2,4.2,4200000.0,castilu02,2021
+Gerrit Cole,30,NYY,30,181.1,5.7,36000000.0,colege01,2021
+Patrick Corbin*,31,WSN,31,171.2,-1.2,24416667.0,corbipa01,2021
+Yu Darvish,34,SDP,30,166.1,1.4,19000000.0,darviyu01,2021
+Anthony DeSclafani,31,SFG,31,167.2,4.3,6000000.0,desclan01,2021
+Nathan Eovaldi,31,BOS,32,182.1,4.3,17000000.0,eovalna01,2021
+Chris Flexen,26,SEA,31,179.2,3.4,1700000.0,flexech01,2021
+Max Fried*,27,ATL,28,165.2,4.2,3500000.0,friedma01,2021
+Kevin Gausman,30,SFG,33,192.0,5.2,18900000.0,gausmke01,2021
+Kyle Gibson,33,2TM,31,182.0,3.5,9666666.0,gibsoky01,2021
+Lucas Giolito,26,CHW,31,178.2,4.3,4150000.0,giolilu01,2021
+Zack Greinke,37,HOU,30,171.0,1.2,35000000.0,greinza01,2021
+Kyle Hendricks,31,CHC,32,181.0,0.8,14000000.0,hendrky01,2021
+Dallas Keuchel*,33,CHW,32,162.0,0.1,18000000.0,keuchda01,2021
+Jordan Lyles,30,TEX,32,180.0,0.0,8000000.0,lylesjo01,2021
+Tyler Mahle,26,CIN,33,180.0,4.9,2200000.0,mahlety01,2021
+Sean Manaea*,29,OAK,32,179.1,3.2,5950000.0,manaese01,2021
+Germán Márquez,26,COL,32,180.0,2.4,7800000.0,marquge01,2021
+Lance McCullers Jr.,27,HOU,28,162.1,3.4,6500000.0,mcculla02,2021
+Wade Miley*,34,CIN,28,163.0,5.3,8000000.0,mileywa01,2021
+Frankie Montas,28,OAK,32,187.0,3.8,1800000.0,montafr02,2021
+Charlie Morton,37,ATL,33,185.2,3.9,15000000.0,mortoch02,2021
+Aaron Nola,28,PHI,32,180.2,2.5,12250000.0,nolaaa01,2021
+Robbie Ray*,29,TOR,32,193.1,6.9,8000000.0,rayro02,2021
+Hyun Jin Ryu*,34,TOR,31,169.0,2.0,20000000.0,ryuhy01,2021
+Max Scherzer,36,2TM,30,179.1,6.1,34503480.0,scherma01,2021
+Marcus Stroman,30,NYM,33,179.0,3.4,18900000.0,stromma01,2021
+Julio Urías*,24,LAD,32,185.2,4.8,3600000.0,uriasju01,2021
+Adam Wainwright,39,STL,32,206.1,3.8,8000000.0,wainwad01,2021
+Zack Wheeler,31,PHI,32,213.1,7.5,22500000.0,wheelza01,2021
+Brandon Woodruff,28,MIL,30,179.1,5.3,3275000.0,woodrbr01,2021
