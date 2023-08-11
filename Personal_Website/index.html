@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IF=edge">
+    <meta name="viewport" content="width=device-width, intitial-scale=1.0">
+    <title>Matthew Nay's Website</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/1e4272e80a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="header">
+    <div class="container">
+        <nav>
+            <img src="images/logo.png" class="logo">
+            <ul id="sidemenu">
+                <li><a href="#header">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+            </ul>
+            <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+        <div class="header-text">
+            <h1>Hi, I'm <span>Matthew Nay</span><br></h1>
+        </div>
+    </div>
+</div>
+<!-- about -->
+<div id="about">
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+                <img src="images/classring.JPG">
+            </div>
+            <div class="about-col-2">
+                <h1 class="sub-title">About Me</h1>
+                <p>I am currently pursuing a Masters of Engineering in Computer Science, Data Science, and Economics from MIT. Throughout my undergrad, I gained skills in data science, machine learning, and economics. I am currently looking for jobs postgrad in the finance, data science, and web3/blockchain spaces. </p>
+            
+                <div class="tab-titles">
+                    <p class="tab-links active-link" onclick="opentab('experience')">Experience</p>
+                    <p class="tab-links" onclick="opentab('education')">Education</p>
+                    <p class="tab-links" onclick="opentab('skills')">Skills & Interests</p>
+                </div>
+                <div class="tab-contents active-tab" id="experience">
+                    <ul>
+                        <li><span>2023</span><br>Research Analyst Intern at MIT Center for Constructive Communication</li>
+                        <li><span>2022</span><br>Research Analyst Intern at GoldenChain Asset Management (Subsidiary of GoldenTree Asset Management)</li>
+                        <li><span>2021</span><br>Quantitative Analyst at 4APP Sports</li>
+                        <li><span>2021</span><br>Data Engineering Intern at Lincoln Financial Group</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="education">
+                    <ul>
+                        <li><span>2024 - Massachusetts Institute of Technology (MIT)</span><br>Master of Engineering - Computer Science, Data Science, and Economics </li>
+                        <li><span>2023 - Massachusetts Institute of Technology (MIT)</span><br>BS - Computer Science, Data Science, and Economics</li>
+                        <li><span>2023 - Massachusetts Institute of Technology (MIT)</span><br>BS - Business Analytics</li>
+                        <li><span>Classes</span><br>Design and Analysis of Algorithms, Econometrics, Machine Learning, Stochastic Models, Linear Algebra, Optimization Methods, Web3 and Strategy, Blockchain and Money, Energy Economics and Policy, Spanish III</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="skills">
+                    <ul>
+                        <li><span>Computer</span><br>Python, SQL, R, Julia Language, Java, HTML, BI tools, Microsoft Office</li>
+                        <li><span>Crypto</span><br>Dune Analytics, Token Valuation, Early Stage Valuation</li>
+                        <li><span>Interests</span><br>NCAA DIII Baseball, Baseball Analytics, Golf, College Football, Commodities, Star Wars</li>
+                        <li><span>Sport Team Allegiances</span><br>Atlanta Braves, Notre Dame, Boston Bruins, Altanta Hawks</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ---------portfolio-------- -->
+<div id="portfolio">
+    <div class="container">
+        <h1 class="sub-title">My Work</h1>
+        <div class="work-list">
+            <div class="work">
+                <img src="images/work-1.png">
+                <div class="layer">
+                    <h3>UGRD Econ Thesis</h3>
+                    <p>The examination of pay discrimination based on race in the MLB</p>
+                    <a href="https://github.com/matthewnay/Portfolio/blob/main/NayMatthew_Ugrd_EconThesis.pdf"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="images/work-2.png">
+                <div class="layer">
+                    <h3>Matrix Methods Final Paper</h3>
+                    <p>Predicting Sports Rankings using Linear Algebra and Matrix Methods</p>
+                    <a href="https://github.com/matthewnay/Portfolio/blob/main/Matrix_Methods_Final_Paper.pdf"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+            <div class="work">
+                <img src="images/work-3.png">
+                <div class="layer">
+                    <h3>Personal Portfolio Website</h3>
+                    <p>Source Code to this Website</p>
+                    <a href="https://github.com/matthewnay/Portfolio"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                </div>
+            </div>
+        </div>
+        <a href="portfolio.html" class="btn">See more</a>
+    </div>
+</div>
+<!-- --------contact-------- -->
+<div id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+                <h1 class="sub-title">Contact Me</h1>
+                <p><i class="fa-solid fa-paper-plane"></i> mnay@mit.edu</p>
+                <p><i class="fa-solid fa-square-phone"></i> (770)778-8814</p>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/matthewnay/"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://github.com/matthewnay/Portfolio"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://twitter.com/0xMintAndFlip"><i class="fa-brands fa-twitter-square"></i></a>
+                    <a href="https://t.me/mnay0x"><i class="fa-brands fa-telegram"></i></a>
+                </div>
+                <a href="images/Nay_Matthew_Resume.pdf" download class="btn btn2">Download Resume</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="Email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright © Matthew Nay 2023</p>
+    </div>
+</div>
+
+<script>
+
+    var tablinks = document.getElementsByClassName("tab-links");
+    var tabcontents = document.getElementsByClassName("tab-contents");
+    
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classList.remove("active-link");
+        }
+        for(tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab");
+        }
+        event.currentTarget.classList.add("active-link");
+        document.getElementById(tabname).classList.add("active-tab");
+    }
+
+</script>
+
+<script>
+
+    var sidemenu = document.getElementById("sidemenu");
+
+    function openmenu(){
+        sidemenu.style.right = "0";
+    }
+    function closemenu(){
+        sidemenu.style.right = "-200px";
+    }
+
+</script>
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwnaW0FzniQsu9GsMLyku3RcVQt9Y2rcYnM8DNh1F_n9HMTsxMXsL0N5dqJpfQXvP2qjA/exec'
+    const form = document.forms['submit-to-google-sheet']
+    const msg = document.getElementById("msg")
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            msg.innerHTML = "Message sent successfully"
+            setTimeout(function(){
+                msg.innerHTML = ""
+            },5000)
+            form.reset()
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+
+</body>
+</html>
